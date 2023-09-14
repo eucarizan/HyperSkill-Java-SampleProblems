@@ -1,12 +1,12 @@
 # Sample Problems
-- count (137)
+- count (139)
 
 ## Previously Solved (latest first)
-1. [ten days before](./TenDaysBefore/README.md)
-2. [piece of alphabet](./PieceOfAlphabet/README.md)
-3. [palindrome](./Palindrome/README.md)
-4. [longest word](./LongestWord/README.md)
-5. [euphonious word](./EuphoniousWord/README.md)
+1. [first occurrence of the word the](./FirstOccurenceOfWordThe/README.md)
+2. [merge datetime](./MergeDateTime/README.md)
+3. [ten days before](./TenDaysBefore/README.md)
+4. [piece of alphabet](./PieceOfAlphabet/README.md)
+5. [palindrome](./Palindrome/README.md)
 
 ## Knowledge Map
 - basics
@@ -53,7 +53,8 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [compression algorithm](./CompressionAlgorithm/README.md)|processing strings|33
-[euphonious word](./EuphoniousWord/README.md)|processing|133
+[euphonious word](./EuphoniousWord/README.md)|processing strings|133
+[first occurrence of the word the](./FirstOccurenceOfWordThe/README.md)|processing strings|139
 [lucky ticket](./LuckyTicket/README.md)|processing strings|37
 [longest word](./LongestWord/README.md)|processing strings|134
 [palindrome](./Palindrome/README.md)|processing strings|135
@@ -212,6 +213,7 @@ topic|descriptions|num
 [similar date](./SimilarDate/README.md)|localdate|12
 [ten days before](./TenDaysBefore/README.md)|localdate|137
 [same time](./SameTime/README.md)|localtime|13
+[merge datetime](./MergeDateTime/README.md)|localdatetime|138
 [subtracting hours adding minutes](./SubtractingHours/README.md)|localdatetime|128
 [count date time range match](./CountDateTimeRangeMatch/README.md)|comparing dates and times|92
 [dont be late again](./DontBeLateAgain/README.md)|comparing dates and time|15
