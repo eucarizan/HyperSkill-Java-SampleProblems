@@ -56,29 +56,29 @@ topic|descriptions|num
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
-[lucky ticket](./LuckyTicket/README.md)|processing strings|37
-[longest word](./LongestWord/README.md)|processing strings|134
-[palindrome](./Palindrome/README.md)|processing strings|135
-[parse url](./ParseUrl/README.md)|processing strings|126
-[piece of alphabet](./PieceOfAlphabet/README.md)|processing strings|136
+[lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
+[longest word](./strings/LongestWord/README.md)|processing strings|134
+[palindrome](./strings/Palindrome/README.md)|processing strings|135
+[parse url](./strings/ParseUrl/README.md)|processing strings|126
+[piece of alphabet](./strings/PieceOfAlphabet/README.md)|processing strings|136
 <hr>
 
 #### methods
 topic|descriptions|num
 :-:|:-:|:-:
 [composite number](./methods/CompositeNumber/README.md)|methods, declaring a method|5
-[number sign](./NumberSign/README.md)|methods, declaring a method|6
+[number sign](./methods/NumberSign/README.md)|methods, declaring a method|6
 <hr>
 
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
 [clock simulation](./oop/ClockSimulation/README.md)|instance methods|8
-[movie](./Movie/README.md)|multiple constructors|116
+[movie](./oop/Movie/README.md)|multiple constructors|116
 [capture variables](./oop/CaptureVariables/README.md)|nested classes, anonymous classes|131
-[managing a process](./ManagingProcess/README.md)|nested classes, anonymous classes|35
+[managing a process](./oop/ManagingProcess/README.md)|nested classes, anonymous classes|35
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
-[publication subclasses](./PublicationSubclasses/README.md)|overriding methods, polymorphism|10
+[publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 <hr>
 
@@ -88,8 +88,8 @@ topic|descriptions|num
 [int binary operation](./interfaces_and_abstract_classes/IntBinaryOperation/README.md)|oop, interfaces and abstract classes, abstract class|11
 [implement compare to](./interfaces_and_abstract_classes/ImplementCompareToMethod/README.md)|oop, interfaces and abstract classes, comparable|43
 [implement comparing by additional fields](./interfaces_and_abstract_classes/ImplementComparingByAdditionalFields/README.md)|oop, interfaces and abstract classes, comparable|44
-[leaderboard](./Leaderboard/README.md)|oop, interfaces and abstract classes, comparable|51
-[mutable geometric shapes](./MutableGeometricShapes/README.md)|oop, interfaces and abstract classes, interface|17
+[leaderboard](./interfaces_and_abstract_classes/Leaderboard/README.md)|oop, interfaces and abstract classes, comparable|51
+[mutable geometric shapes](./interfaces_and_abstract_classes/MutableGeometricShapes/README.md)|oop, interfaces and abstract classes, interface|17
 <hr>
 
 #### functions
@@ -110,57 +110,57 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [ascii art](./functional_streams/ASCIIArt/README.md)|collectors|93
-[product of squares](./ProductOfSquares/README.md)|collectors|95
-[set average](./SetAverage/README.md)|collectors|94
+[product of squares](./functional_streams/ProductOfSquares/README.md)|collectors|95
+[set average](./functional_streams/SetAverage/README.md)|collectors|94
 [a sorted stream](./functional_streams/ASortedStream/README.md)|functional streams|77
 [count passwords](./functional_streams/CountPasswords/README.md)|functional streams|74
 [finding max and min elemtents](./functional_streams/FindingMaxAndMinElements/README.md)|functional streams|75
-[long ranges](./LongRanges/README.md)|functional streams|73
-[print elements of a stream](./PrintElementsOfAStream/README.md)|functional streams|76
+[long ranges](./functional_streams/LongRanges/README.md)|functional streams|73
+[print elements of a stream](./functional_streams/PrintElementsOfAStream/README.md)|functional streams|76
 [a stream without zero](./functional_streams/AStreamWIthoutZero/README.md)|infinite stream|104
 [generating cats](./functional_streams/GeneratingCats/README.md)|infinite streams|101
-[powers of two](./PowersOfTwo/README.md)|infinite streams|102
+[powers of two](./functional_streams/PowersOfTwo/README.md)|infinite streams|102
 [counting clicks](./functional_streams/CountingClicks/README.md)|grouping collectors|100
 [grouping collectors](./functional_streams/GroupingCollectors/README.md)|grouping collectors, theory|96
-[palindrome or not](./PalindromeOrNot/README.md)|grouping collectors|98
-[teeing collector](./TeeingCollector/README.md)|grouping collectors|97
-[total sum of transactions by each account](./TransactionTotalSumAccounts/README.md)|grouping collectors|99
+[palindrome or not](./functional_streams/PalindromeOrNot/README.md)|grouping collectors|98
+[teeing collector](./functional_streams/TeeingCollector/README.md)|grouping collectors|97
+[total sum of transactions by each account](./functional_streams/TransactionTotalSumAccounts/README.md)|grouping collectors|99
 [count words without repetitions](./functional_streams/CountWordsWithoutRepetitions/README.md)|map and flatmap|88
-[mapping countries](./MappingCountries/README.md)|map and flatmap|84
-[mapping countries again](./MappingCountriesAgain/README.md)|map and flatmap|85
-[match list and numbers](./MatchListAndNumbers/README.md)|map and flatmap|83
-[maximum absolute value](./MaximumAbsoluteValue/README.md)|map and flatmap|86
-[sorting absolute values](./SortingAbsoluteValues/README.md)|map and flatmap|87
-[calculating factorials](./CalculatingFactorials/README.md)|reduction methods|89
-[range quadratic sum](./RangeQuadraticSum/README.md)|reduction methods|90
-[sum of divisors](./SumOfDivisors/README.md)|reduction methods|91
+[mapping countries](./functional_streams/MappingCountries/README.md)|map and flatmap|84
+[mapping countries again](./functional_streams/MappingCountriesAgain/README.md)|map and flatmap|85
+[match list and numbers](./functional_streams/MatchListAndNumbers/README.md)|map and flatmap|83
+[maximum absolute value](./functional_streams/MaximumAbsoluteValue/README.md)|map and flatmap|86
+[sorting absolute values](./functional_streams/SortingAbsoluteValues/README.md)|map and flatmap|87
+[calculating factorials](./functional_streams/CalculatingFactorials/README.md)|reduction methods|89
+[range quadratic sum](./functional_streams/RangeQuadraticSum/README.md)|reduction methods|90
+[sum of divisors](./functional_streams/SumOfDivisors/README.md)|reduction methods|91
 [bad words detecting](./functional_streams/BadWordsDetecting/README.md)|stream filtering|79
 [check if prime](./functional_streams/CheckIfPrime/README.md)|stream filtering|80
-[numbers filtering](./NumbersFiltering/README.md)|stream filtering|81
-[omitting long strings](./OmittingLongStrings/README.md)|stream filtering|82
-[the average salary](./TheAverageSalary/README.md)|streams of primitives|103
-[secret codes](./SecretCodes/README.md)|taking elements|105
-[sorting and skipping numbers](./SortingAndSkippingNumbers/README.md)|taking elements|106
-[sum of odd numbers](./SumOfOddNumbers/README.md)|stream pipelines|108
-[ten most frequent words](./TenMostFrequentWords/README.md)|stream pipelines|118
-[total number of employee](./TotalNumberOfEmployees/README.md)|stream pipelines|109
-[total sum of cancelled transactions](./TotalSumCancelledTransactions/README.md)|stream pipelines|110
-[using streams many times](./UsingStreamsManyTimes/README.md)|stream pipelines|117
+[numbers filtering](./functional_streams/NumbersFiltering/README.md)|stream filtering|81
+[omitting long strings](./functional_streams/OmittingLongStrings/README.md)|stream filtering|82
+[the average salary](./functional_streams/TheAverageSalary/README.md)|streams of primitives|103
+[secret codes](./functional_streams/SecretCodes/README.md)|taking elements|105
+[sorting and skipping numbers](./functional_streams/SortingAndSkippingNumbers/README.md)|taking elements|106
+[sum of odd numbers](./functional_streams/SumOfOddNumbers/README.md)|stream pipelines|108
+[ten most frequent words](./functional_streams/TenMostFrequentWords/README.md)|stream pipelines|118
+[total number of employee](./functional_streams/TotalNumberOfEmployees/README.md)|stream pipelines|109
+[total sum of cancelled transactions](./functional_streams/TotalSumCancelledTransactions/README.md)|stream pipelines|110
+[using streams many times](./functional_streams/UsingStreamsManyTimes/README.md)|stream pipelines|117
 <hr>
 
 #### design patterns
 topic|descriptions|num
 :-:|:-:|:-:
-[remote control](./RemoteControl/README.md)|behavioral patterns, command|20
-[rockstar games](./RockstarGames/README.md)|behavioral patterns, observer|34
-[max and min](./MaxAndMin/README.md)|behavioral patterns, strategy|21
+[remote control](./design_patterns/RemoteControl/README.md)|behavioral patterns, command|20
+[rockstar games](./design_patterns/RockstarGames/README.md)|behavioral patterns, observer|34
+[max and min](./design_patterns/MaxAndMin/README.md)|behavioral patterns, strategy|21
 [build house](./design_patterns/BuildHouse/README.md)|behavioral patterns, template method|26
 [career](./design_patterns/Career/README.md)|behavioral patterns, template method|22
-[social networks](./SocialNetworks/README.md)|behavioral patterns, template method|27
-[template method](./TemplateMethod/README.md)|behavioral patterns, template method|24
-[template method v2](./TemplateMethod2/README.md)|behavioral patterns, template method|25
-[static factory for time](./StaticFactoryForTime/README.md)|creational patterns, encapsulating object creation|18
-[motor static factory](./MotorStaticFactory/README.md)|creational patterns, static factory idiom|23
+[social networks](./design_patterns/SocialNetworks/README.md)|behavioral patterns, template method|27
+[template method](./design_patterns/TemplateMethod/README.md)|behavioral patterns, template method|24
+[template method v2](./design_patterns/TemplateMethod2/README.md)|behavioral patterns, template method|25
+[static factory for time](./design_patterns/StaticFactoryForTime/README.md)|creational patterns, encapsulating object creation|18
+[motor static factory](./design_patterns/MotorStaticFactory/README.md)|creational patterns, static factory idiom|23
 <hr>
 
 #### arrays
@@ -168,9 +168,9 @@ topic|descriptions|num
 :-:|:-:|:-:
 [boxes](./arrays/Boxes/README.md)|iterating over arrays|7
 [individual taxes](./arrays/IndividualTaxes/README.md)|iterating over arrays|9
-[maximum product of adjacent elements](./MaximumProductOfAdjacentElements/README.md)|iterating over arrays|112
-[sum array elements greater than value](./SumArrayElementsGreaterThanValue/README.md)|iterating over arrays|129
-[triples](./Triples/README.md)|iterating over arrays|45
+[maximum product of adjacent elements](./arrays/MaximumProductOfAdjacentElements/README.md)|iterating over arrays|112
+[sum array elements greater than value](./arrays/SumArrayElementsGreaterThanValue/README.md)|iterating over arrays|129
+[triples](./arrays/Triples/README.md)|iterating over arrays|45
 <hr>
 
 #### collections
@@ -179,17 +179,17 @@ topic|descriptions|num
 [backward indexes](./collections/BackwardIndexes/README.md)|collections, list|29
 [count value occurrences](./collections/CountValueOccurrences/README.md)|collections, list|32
 [find the nearest number](./collections/FindNearestNumber/README.md)|collections, arraylist|46
-[messages comparator](./MessagesComparator/README.md)|collections, comparator|67
-[most valuable items](./MostValuableItems/README.md)|collections, comparator|69
-[multiple fields](./MultipleFields/README.md)|collections, comparator|72
-[odd and even](./OddAndEven/README.md)|collections, comparator|70
-[reverse sorting](./ReverseSorting/README.md)|collections, comparator|71
-[sort users](./SortUsers/README.md)|collections, comparator|68
+[messages comparator](./collections/MessagesComparator/README.md)|collections, comparator|67
+[most valuable items](./collections/MostValuableItems/README.md)|collections, comparator|69
+[multiple fields](./collections/MultipleFields/README.md)|collections, comparator|72
+[odd and even](./collections/OddAndEven/README.md)|collections, comparator|70
+[reverse sorting](./collections/ReverseSorting/README.md)|collections, comparator|71
+[sort users](./collections/SortUsers/README.md)|collections, comparator|68
 [counting words](./collections/CountingWords/README.md)|collections, the map interface|60
 [creating a tree map](./collections/CreatingATreeMap/README.md)|collections, the map interface|57
 [diplaying pairs](./collections/DisplayingPairs/README.md)|collections, the map interface|59
-[sherlock homes and the mystery of anagrams](./SherlockHolmesAnagrams/README.md)|collections, the map interface|58
-[tricky submaps](./TrickySubMaps/README.md)|collections, the map interface|113
+[sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|collections, the map interface|58
+[tricky submaps](./collections/TrickySubMaps/README.md)|collections, the map interface|113
 <hr>
 
 #### errorless code
@@ -200,22 +200,22 @@ topic|descriptions|num
 [cycles and iterations](./errorless_code/CyclesAndIterations/README.md)|debugging|78
 [divisors finding](./errorless_code/DivisorsFinding/README.md)|debugging|62
 [avoid npe string](./errorless_code/AvoidNPEStrings/README.md)|exception handling, npe|130
-[logging to debug](./LoggingToDebug/README.md)|logback|115
-[proper arguments](./ProperArguments/README.md)|mockito|66
-[return empty string](./ReturnEmptyString/README.md)|npe|111
-[test password](./TestPassword/README.md)|testing tools and libraries, parameterized test|50
+[logging to debug](./errorless_code/LoggingToDebug/README.md)|logback|115
+[proper arguments](./errorless_code/ProperArguments/README.md)|mockito|66
+[return empty string](./errorless_code/ReturnEmptyString/README.md)|npe|111
+[test password](./errorless_code/TestPassword/README.md)|testing tools and libraries, parameterized test|50
 <hr>
 
 #### date and time
 topic|descriptions|num
 :-:|:-:|:-:
-[last day of month](./LastDayOfMonth/README.md)|localdate|16
+[last day of month](./date_and_time/LastDayOfMonth/README.md)|localdate|16
 [first and last day of month](./date_and_time/FirstAndLastDayOfMonth/README.md)|localdate|127
-[similar date](./SimilarDate/README.md)|localdate|12
-[ten days before](./TenDaysBefore/README.md)|localdate|137
-[same time](./SameTime/README.md)|localtime|13
-[merge datetime](./MergeDateTime/README.md)|localdatetime|138
-[subtracting hours adding minutes](./SubtractingHours/README.md)|localdatetime|128
+[similar date](./date_and_time/SimilarDate/README.md)|localdate|12
+[ten days before](./date_and_time/TenDaysBefore/README.md)|localdate|137
+[same time](./date_and_time/SameTime/README.md)|localtime|13
+[merge datetime](./date_and_time/MergeDateTime/README.md)|localdatetime|138
+[subtracting hours adding minutes](./date_and_time/SubtractingHours/README.md)|localdatetime|128
 [count date time range match](./date_and_time/CountDateTimeRangeMatch/README.md)|comparing dates and times|92
 [dont be late again](./date_and_time/DontBeLateAgain/README.md)|comparing dates and time|15
 <hr>
@@ -225,7 +225,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [average](./standard_classes_for_computation/Average/README.md)|big decimal|39
 [gold mining](./standard_classes_for_computation/GoldMining/README.md)|big decimal|38
-[multiplication](./Multiplication/README.md)|big decimal|40
+[multiplication](./standard_classes_for_computation/Multiplication/README.md)|big decimal|40
 [find the seed](./standard_classes_for_computation/FindTheSeed/README.md)|random|14
 <hr>
 
@@ -242,11 +242,11 @@ topic|descriptions|num
 [check ip address](./regular_expressions/CheckIPAddress/README.md)|string matches|54
 [check the clock time](./regular_expressions/CheckTheClockTime/README.md)|string matches|52
 [check the date](./regular_expressions/CheckTheDate/README.md)|string matchees|53
-[safe password](./SafePassword/README.md)|string matches|49
+[safe password](./regular_expressions/SafePassword/README.md)|string matches|49
 [extracting big numbers from a text](./regular_expressions/ExtractBigNumbersFromText/README.md)|patterns and matchers|56
 [find all passwords](./regular_expressions/FindAllPasswords/README.md)|patterns and matchers|55
 [in the middle of a word](./regular_expressions/InTheMiddleOfWord/README.md)|patterns and matchers|47
-[number parsing](./NumberParsing/README.md)|patterns and matchers|122
+[number parsing](./regular_expressions/NumberParsing/README.md)|patterns and matchers|122
 <hr>
 
 #### search algorithms
@@ -254,7 +254,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [approximate search](./search_algorithms/ApproximateSearch/README.md)|algorithms, array algorithms, search algorithms|124
 [binary search count number of loops](./search_algorithms/BinarySearchCountNumberOfLoops/README.md)|algorithms, array algorithms, search algorithms|123
-[sort and search](./SortAndSearch/README.md)|algorithms, array algorithms, search algorithms|61
+[sort and search](./search_algorithms/SortAndSearch/README.md)|algorithms, array algorithms, search algorithms|61
 <hr>
 
 
