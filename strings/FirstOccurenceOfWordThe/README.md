@@ -32,3 +32,7 @@ I ate the red apple.
 - basics
 - strings
 - processing strings
+
+## Code
+- [solution class](./src/main/java/WordThe.java)
+- [unit tests](./src/test/java/SomeParamTest.java)
