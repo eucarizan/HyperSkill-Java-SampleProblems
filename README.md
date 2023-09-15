@@ -1,12 +1,12 @@
 # Sample Problems
-- count (140)
+- count (142)
 
 ## Previously Solved (latest first)
-1. [extracting a substring](./strings/ExtractingSubstring/README.md)
-2. [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)
-3. [merge datetime](./MergeDateTime/README.md)
-4. [ten days before](./TenDaysBefore/README.md)
-5. [piece of alphabet](./PieceOfAlphabet/README.md)
+1. [number of occurrences](./strings/NumberOfOccurrences/README.md)
+2. [parallelogram area](./methods/ParallelogramArea/README.md)
+3. [extracting a substring](./strings/ExtractingSubstring/README.md)
+4. [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)
+5. [merge datetime](./MergeDateTime/README.md)
 
 ## Knowledge Map
 - basics
@@ -58,6 +58,7 @@ topic|descriptions|num
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
 [lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
 [longest word](./strings/LongestWord/README.md)|processing strings|134
+[number of occurrences](./strings/NumberOfOccurrences/README.md)|processing strings|142
 [palindrome](./strings/Palindrome/README.md)|processing strings|135
 [parse url](./strings/ParseUrl/README.md)|processing strings|126
 [piece of alphabet](./strings/PieceOfAlphabet/README.md)|processing strings|136
@@ -66,6 +67,7 @@ topic|descriptions|num
 #### methods
 topic|descriptions|num
 :-:|:-:|:-:
+[parallelogram area](./methods/ParallelogramArea/README.md)|methods, calling a method|141
 [composite number](./methods/CompositeNumber/README.md)|methods, declaring a method|5
 [number sign](./methods/NumberSign/README.md)|methods, declaring a method|6
 <hr>

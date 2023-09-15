@@ -20,5 +20,5 @@ According to the formula, the area of a parallelogram is the result of the multi
 - calling a method
 
 ## Code
-- [solution class](./src/main/java/SomeClass.java)
+- [solution class](./src/main/java/Parallelogram.java)
 - [unit tests](./src/test/java/SomeParamTest.java)
