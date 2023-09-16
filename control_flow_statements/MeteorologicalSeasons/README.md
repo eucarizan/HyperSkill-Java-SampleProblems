@@ -41,5 +41,5 @@ AUTUMN
 - switch expression
 
 ## Code
-- [solution class](./src/main/java/SomeClass.java)
+- [solution class](./src/main/java/Meteorological.java)
 - [unit tests](./src/test/java/SomeParamTest.java)

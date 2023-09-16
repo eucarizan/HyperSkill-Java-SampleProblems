@@ -13,11 +13,13 @@ public class SomeParamTest {
     @ParameterizedTest(name = "{0} -- Meteorological.season({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
-            "testMeteorologicalSeason_Spring : SPRING : 20",
-            "testMeteorologicalSeason_Summer : SUMMER : 37",
-            "testMeteorologicalSeason_Autumn : AUTUMN : 20",
-            "testMeteorologicalSeason_Winter : WINTER : 1",
-            "testMeteorologicalSeason_NotExisting : TAGULAN : 0",
+            "testSeasonSpring : SPRING : 20",
+            "testSeasonSummer : SUMMER : 37",
+            "testSeasonAutumn : AUTUMN : 20",
+            "testSeasonWinter : WINTER : 1",
+            "testSeasonInvalidInput : TAGULAN : 0",
+            "testSeasonCaseInsensitiveInput : summer : 37",
+            "testSeasonNullInput : : 0",
     }, delimiter = ':')
     public void test(String name, String param, int expected) {
         int result = Meteorological.season(param);
