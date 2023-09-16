@@ -1,12 +1,12 @@
 # Sample Problems
-- count (142)
+- count (143)
 
 ## Previously Solved (latest first)
-1. [number of occurrences](./strings/NumberOfOccurrences/README.md)
-2. [parallelogram area](./methods/ParallelogramArea/README.md)
-3. [extracting a substring](./strings/ExtractingSubstring/README.md)
-4. [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)
-5. [merge datetime](./MergeDateTime/README.md)
+1. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
+2. [number of occurrences](./strings/NumberOfOccurrences/README.md)
+3. [parallelogram area](./methods/ParallelogramArea/README.md)
+4. [extracting a substring](./strings/ExtractingSubstring/README.md)
+5. [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)
 
 ## Knowledge Map
 - basics
@@ -44,9 +44,10 @@ topic|descriptions|num
 [interval](./control_flow_statements/Interval/README.md)|conditional statement|2
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
-[size of parts](./control_flow_statements/SizeOfParts/README.md)|control flow statements, the for-loop|4
-[natural number squares](./control_flow_statements/NaturalNumbersSquares/README.md)|control flow statements, while, do-while|3
-[floor space of room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement, control flow statements|28
+[size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
+[natural number squares](./control_flow_statements/NaturalNumbersSquares/README.md)|while, do-while|3
+[meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
+[floor space of room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 <hr>
 
 #### strings
