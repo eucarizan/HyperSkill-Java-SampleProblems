@@ -1,12 +1,12 @@
 # Sample Problems
-- count (146)
+- count (147)
 
 ## Previously Solved (latest first)
-1. [field count](./reflection/FieldCount/README.md)
-2. [declared fields](./reflection/DeclaredFields/README.md)
-3. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
-4. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
-5. [number of occurrences](./strings/NumberOfOccurrences/README.md)
+1. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
+2. [field count](./reflection/FieldCount/README.md)
+3. [declared fields](./reflection/DeclaredFields/README.md)
+4. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
+5. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
 
 ## Knowledge Map
 - basics
@@ -50,6 +50,7 @@ topic|descriptions|num
 [natural number squares](./control_flow_statements/NaturalNumbersSquares/README.md)|while, do-while|3
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
+[months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
 [floor space of room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 <hr>
 
