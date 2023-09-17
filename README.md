@@ -1,12 +1,12 @@
 # Sample Problems
-- count (145)
+- count (146)
 
 ## Previously Solved (latest first)
-1. [declared fields](./reflection/DeclaredFields/README.md)
-2. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
-3. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
-4. [number of occurrences](./strings/NumberOfOccurrences/README.md)
-5. [parallelogram area](./methods/ParallelogramArea/README.md)
+1. [field count](./reflection/FieldCount/README.md)
+2. [declared fields](./reflection/DeclaredFields/README.md)
+3. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
+4. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
+5. [number of occurrences](./strings/NumberOfOccurrences/README.md)
 
 ## Knowledge Map
 - basics
@@ -216,6 +216,7 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [declared fields](./reflection/DeclaredFields/README.md)|reflection basics|145
+[field count](./reflection/FieldCount/README.md)|reflection basics|146
 <hr>
 
 #### date and time
