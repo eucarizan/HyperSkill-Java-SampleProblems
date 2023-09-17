@@ -1,12 +1,12 @@
 # Sample Problems
-- count (144)
+- count (145)
 
 ## Previously Solved (latest first)
-1. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
-2. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
-3. [number of occurrences](./strings/NumberOfOccurrences/README.md)
-4. [parallelogram area](./methods/ParallelogramArea/README.md)
-5. [extracting a substring](./strings/ExtractingSubstring/README.md)
+1. [declared fields](./reflection/DeclaredFields/README.md)
+2. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
+3. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
+4. [number of occurrences](./strings/NumberOfOccurrences/README.md)
+5. [parallelogram area](./methods/ParallelogramArea/README.md)
 
 ## Knowledge Map
 - basics
@@ -24,6 +24,8 @@
   - [arrays](#arrays)
   - [collections](#collections)
 - [errorless code](#errorless-code)
+- java internals
+  - [reflection](#reflection)
 - additional instruments
   - essential standard classes
     - [date and time](#date-and-time)
@@ -208,6 +210,12 @@ topic|descriptions|num
 [proper arguments](./errorless_code/ProperArguments/README.md)|mockito|66
 [return empty string](./errorless_code/ReturnEmptyString/README.md)|npe|111
 [test password](./errorless_code/TestPassword/README.md)|testing tools and libraries, parameterized test|50
+<hr>
+
+#### reflection
+topic|descriptions|num
+:-:|:-:|:-:
+[declared fields](./reflection/DeclaredFields/README.md)|reflection basics|145
 <hr>
 
 #### date and time
