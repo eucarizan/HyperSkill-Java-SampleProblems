@@ -1,12 +1,12 @@
 # Sample Problems
-- count (147)
+- count (148)
 
 ## Previously Solved (latest first)
-1. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
-2. [field count](./reflection/FieldCount/README.md)
-3. [declared fields](./reflection/DeclaredFields/README.md)
-4. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
-5. [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)
+1. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
+2. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
+3. [field count](./reflection/FieldCount/README.md)
+4. [declared fields](./reflection/DeclaredFields/README.md)
+5. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
 
 ## Knowledge Map
 - basics
@@ -84,6 +84,7 @@ topic|descriptions|num
 [movie](./oop/Movie/README.md)|multiple constructors|116
 [capture variables](./oop/CaptureVariables/README.md)|nested classes, anonymous classes|131
 [managing a process](./oop/ManagingProcess/README.md)|nested classes, anonymous classes|35
+[pumpkin and canlde](./oop/PumpkinAndCandle/README.md)|nested classes, inner classes|148
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
