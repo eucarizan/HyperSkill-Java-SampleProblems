@@ -1,12 +1,12 @@
 # Sample Problems
-- count (148)
+- count (149)
 
 ## Previously Solved (latest first)
-1. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
-2. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
-3. [field count](./reflection/FieldCount/README.md)
-4. [declared fields](./reflection/DeclaredFields/README.md)
-5. [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)
+1. [gc characters](./strings/GCCharacters/README.md)
+2. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
+3. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
+4. [field count](./reflection/FieldCount/README.md)
+5. [declared fields](./reflection/DeclaredFields/README.md)
 
 ## Knowledge Map
 - basics
@@ -61,6 +61,7 @@ topic|descriptions|num
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
+[gc characters](./strings/GCCharacters/README.md)|processing strings|149
 [lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
 [longest word](./strings/LongestWord/README.md)|processing strings|134
 [number of occurrences](./strings/NumberOfOccurrences/README.md)|processing strings|142
