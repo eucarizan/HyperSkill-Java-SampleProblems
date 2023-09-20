@@ -1,12 +1,12 @@
 # Sample Problems
-- count (151)
+- count (152)
 
 ## Previously Solved (latest first)
-1. [check burgs](./strings/CheckBurgs/README.md)
-2. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
-3. [gc characters](./strings/GCCharacters/README.md)
-4. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
-5. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
+1. [replace a with b](./strings/ReplaceAWithB/README.md)
+2. [check burgs](./strings/CheckBurgs/README.md)
+3. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
+4. [gc characters](./strings/GCCharacters/README.md)
+5. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
 
 ## Knowledge Map
 - basics
@@ -60,6 +60,7 @@ topic|descriptions|num
 [check burgs](./strings/CheckBurgs/README.md)|string|151
 [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)|string|150
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
+[replace a with b](./strings/ReplaceAWithB/README.md)|string|152
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
