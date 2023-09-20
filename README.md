@@ -1,12 +1,12 @@
 # Sample Problems
-- count (152)
+- count (153)
 
 ## Previously Solved (latest first)
-1. [replace a with b](./strings/ReplaceAWithB/README.md)
-2. [check burgs](./strings/CheckBurgs/README.md)
-3. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
-4. [gc characters](./strings/GCCharacters/README.md)
-5. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
+1. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
+2. [replace a with b](./strings/ReplaceAWithB/README.md)
+3. [check burgs](./strings/CheckBurgs/README.md)
+4. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
+5. [gc characters](./strings/GCCharacters/README.md)
 
 ## Knowledge Map
 - basics
@@ -59,6 +59,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [check burgs](./strings/CheckBurgs/README.md)|string|151
 [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)|string|150
+[comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)|string|153
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
 [replace a with b](./strings/ReplaceAWithB/README.md)|string|152
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
