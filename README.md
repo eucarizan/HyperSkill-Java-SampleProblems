@@ -1,12 +1,12 @@
 # Sample Problems
-- count (149)
+- count (150)
 
 ## Previously Solved (latest first)
-1. [gc characters](./strings/GCCharacters/README.md)
-2. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
-3. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
-4. [field count](./reflection/FieldCount/README.md)
-5. [declared fields](./reflection/DeclaredFields/README.md)
+1. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
+2. [gc characters](./strings/GCCharacters/README.md)
+3. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
+4. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
+5. [field count](./reflection/FieldCount/README.md)
 
 ## Knowledge Map
 - basics
@@ -57,6 +57,7 @@ topic|descriptions|num
 #### strings
 topic|descriptions|num
 :-:|:-:|:-:
+[check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)|strings|150
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
