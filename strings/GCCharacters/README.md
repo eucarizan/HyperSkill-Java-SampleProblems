@@ -42,5 +42,5 @@ acggtgttat
 - processing strings
 
 ## Code
-- [solution class](./src/main/java/SomeClass.java)
+- [solution class](./src/main/java/GCCharacters.java)
 - [unit tests](./src/test/java/SomeParamTest.java)

@@ -1,14 +1,16 @@
-# Check prefix ignoring the case
+# Check burgs
 
 ## Description
-Write a program that checks if a given string starts with the prefix "**J**" ignoring the case.
+Write a program that reads the name of a city and checks if the name ends with "**burg**".
+
+Keep in mind, a city can have a short name.
 
 The program should output **true** or **false**.
 
 ## Examples
 **Sample Input 1:**
 ```console
-Java
+Augsburg
 ```
 
 **Sample Output 1:**
@@ -18,10 +20,20 @@ true
 
 **Sample Input 2:**
 ```console
-Kotlin
+Saint Petersburg
 ```
 
 **Sample Output 2:**
+```console
+true
+```
+
+**Sample Input 3:**
+```console
+Tu
+```
+
+**Sample Output 3:**
 ```console
 false
 ```

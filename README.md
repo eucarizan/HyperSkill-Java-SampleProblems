@@ -1,12 +1,12 @@
 # Sample Problems
-- count (150)
+- count (151)
 
 ## Previously Solved (latest first)
-1. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
-2. [gc characters](./strings/GCCharacters/README.md)
-3. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
-4. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
-5. [field count](./reflection/FieldCount/README.md)
+1. [check burgs](./strings/CheckBurgs/README.md)
+2. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
+3. [gc characters](./strings/GCCharacters/README.md)
+4. [pumpkin and candle](./oop/PumpkinAndCandle/README.md)
+5. [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)
 
 ## Knowledge Map
 - basics
@@ -57,7 +57,8 @@ topic|descriptions|num
 #### strings
 topic|descriptions|num
 :-:|:-:|:-:
-[check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)|strings|150
+[check burgs](./strings/CheckBurgs/README.md)|string|151
+[check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)|string|150
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
