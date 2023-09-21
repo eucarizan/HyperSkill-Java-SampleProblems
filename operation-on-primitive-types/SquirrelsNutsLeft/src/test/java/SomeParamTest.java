@@ -4,21 +4,24 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.util.List;
+import java.util.Arrays;
+
 @SuppressWarnings("unused")
 public class SomeParamTest {
 
-    @ParameterizedTest(name = "{0} -- nutsForEach({1}, {2}) == {3}")
+    @ParameterizedTest(name = "{0} -- nutsLeft({1}, {2}) == {3}")
     @DisplayName("param test")
     @CsvSource(value = {
-            "testWithNoNuts : 3 : 0 : 0",
-            "testWithNoSquirrel : 0 : 14 : 0",
-            "testWithPositiveValues : 3 : 14 : 4",
-            "testWithUnevenDistribution : 3 : 19 : 6",
+            "testWithZeroSquirrels : 0 : 10 : 0",
+            "testWithZeroNuts : 3 : 0 : 0",
+            "testWithPositiveValues : 4 : 20 : 0",
+            "testWithUnevenDistribution : 3 : 10 : 1",
             "testWithZeroNutsAndSquirrels : 0 : 0 : 0",
-            "testWithLargeValues : 100 : 1000 : 10",
+            "testWithLargeValues : 100 : 1001 : 1",
     }, delimiter = ':')
     public void test(String name, int squirrels, int nuts, int expected) {
-        int result = Squirrel.nutsForEach(squirrels, nuts);
+        int result = Squirrel.nutsLeft(squirrels, nuts);
 
         assertEquals(expected, result);
     }
