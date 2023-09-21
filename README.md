@@ -1,12 +1,12 @@
 # Sample Problems
-- count (161)
+- count (162)
 
 ## Previously Solved (latest first)
-1. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
-2. [reversing](./operation-on-primitive-types/Reversing/README.md)
-3. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
-4. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
-5. [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)
+1. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
+2. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
+3. [reversing](./operation-on-primitive-types/Reversing/README.md)
+4. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
+5. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
 
 ## Knowledge Map
 - basics
@@ -44,6 +44,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
 [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)|integer types and operations|161
+[next even number](./operation-on-primitive-types/NextEvenNumber/README.md)|integer types and operations|162
 [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)|integer types and operations|156
 [reversing](./operation-on-primitive-types/Reversing/README.md)|integer types and operations|160
 [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)|integer types and operations|157
