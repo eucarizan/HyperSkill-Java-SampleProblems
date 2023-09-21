@@ -1,13 +1,12 @@
 # Sample Problems
-- count (158)
+- count (159)
 
 ## Previously Solved (latest first)
-1. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
-2. [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)
-3. [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)
-4. [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)
-5. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
-6. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
+1. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
+2. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
+3. [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)
+4. [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)
+5. [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)
 
 ## Knowledge Map
 - basics
@@ -47,6 +46,7 @@ topic|descriptions|num
 [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)|integer types and operations|156
 [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)|integer types and operations|157
 [tens digit](./operation-on-primitive-types/TensDigit/README.md)|integer types and operations|158
+[the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)|integer types and operations|159
 <hr>
 
 #### control flow statements
