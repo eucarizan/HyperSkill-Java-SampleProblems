@@ -1,12 +1,13 @@
 # Sample Problems
-- count (155)
+- count (156)
 
 ## Previously Solved (latest first)
-1. [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)
-2. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
-3. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
-4. [replace a with b](./strings/ReplaceAWithB/README.md)
-5. [check burgs](./strings/CheckBurgs/README.md)
+1. [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)
+2. [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)
+3. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
+4. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
+5. [replace a with b](./strings/ReplaceAWithB/README.md)
+6. [check burgs](./strings/CheckBurgs/README.md)
 
 ## Knowledge Map
 - basics
@@ -43,6 +44,7 @@
 topic|descriptions|num
 :-:|:-:|:-:
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
+[how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)|integer types and operations|156
 <hr>
 
 #### control flow statements
