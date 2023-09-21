@@ -1,12 +1,12 @@
 # Sample Problems
-- count (160)
+- count (161)
 
 ## Previously Solved (latest first)
-1. [reversing](./operation-on-primitive-types/Reversing/README.md)
-2. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
-3. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
-4. [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)
-5. [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)
+1. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
+2. [reversing](./operation-on-primitive-types/Reversing/README.md)
+3. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
+4. [tens digit](./operation-on-primitive-types/TensDigit/README.md)
+5. [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)
 
 ## Knowledge Map
 - basics
@@ -43,6 +43,7 @@
 topic|descriptions|num
 :-:|:-:|:-:
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
+[difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)|integer types and operations|161
 [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)|integer types and operations|156
 [reversing](./operation-on-primitive-types/Reversing/README.md)|integer types and operations|160
 [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)|integer types and operations|157
