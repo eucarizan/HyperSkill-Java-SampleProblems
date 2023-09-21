@@ -1,12 +1,12 @@
 # Sample Problems
-- count (153)
+- count (154)
 
 ## Previously Solved (latest first)
-1. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
-2. [replace a with b](./strings/ReplaceAWithB/README.md)
-3. [check burgs](./strings/CheckBurgs/README.md)
-4. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
-5. [gc characters](./strings/GCCharacters/README.md)
+1. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
+2. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
+3. [replace a with b](./strings/ReplaceAWithB/README.md)
+4. [check burgs](./strings/CheckBurgs/README.md)
+5. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
 
 ## Knowledge Map
 - basics
@@ -267,6 +267,7 @@ topic|descriptions|num
 [find all passwords](./regular_expressions/FindAllPasswords/README.md)|patterns and matchers|55
 [in the middle of a word](./regular_expressions/InTheMiddleOfWord/README.md)|patterns and matchers|47
 [number parsing](./regular_expressions/NumberParsing/README.md)|patterns and matchers|122
+[vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)|regexes in programs|154
 <hr>
 
 #### search algorithms
