@@ -1,12 +1,12 @@
 # Sample Problems
-- count (163)
+- count (164)
 
 ## Previously Solved (latest first)
-1. [desks](./operation-on-primitive-types/Desks/README.md)
-2. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
-3. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
-4. [reversing](./operation-on-primitive-types/Reversing/README.md)
-5. [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)
+1. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
+2. [desks](./operation-on-primitive-types/Desks/README.md)
+3. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
+4. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
+5. [reversing](./operation-on-primitive-types/Reversing/README.md)
 
 ## Knowledge Map
 - basics
@@ -45,6 +45,7 @@ topic|descriptions|num
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
 [desks](./operation-on-primitive-types/Desks/README.md)|integer types and operations|163
 [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)|integer types and operations|161
+[good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)|integer types and operations|164
 [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)|integer types and operations|162
 [how many nuts each squirrel will get](./operation-on-primitive-types/SquirrelNuts/README.md)|integer types and operations|156
 [reversing](./operation-on-primitive-types/Reversing/README.md)|integer types and operations|160
