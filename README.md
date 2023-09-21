@@ -1,12 +1,12 @@
 # Sample Problems
-- count (154)
+- count (155)
 
 ## Previously Solved (latest first)
-1. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
-2. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
-3. [replace a with b](./strings/ReplaceAWithB/README.md)
-4. [check burgs](./strings/CheckBurgs/README.md)
-5. [check prefix ignoring the case](./strings/CheckPrefixCaseInsensitive/README.md)
+1. [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)
+2. [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)
+3. [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)
+4. [replace a with b](./strings/ReplaceAWithB/README.md)
+5. [check burgs](./strings/CheckBurgs/README.md)
 
 ## Knowledge Map
 - basics
@@ -37,6 +37,12 @@
     - array algorithms
       - [search algorithms](#search-algorithms)
 
+<hr>
+
+#### operation on primitive types
+topic|descriptions|num
+:-:|:-:|:-:
+[arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
 <hr>
 
 #### control flow statements
