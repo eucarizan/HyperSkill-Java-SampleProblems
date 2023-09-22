@@ -1,12 +1,12 @@
 # Sample Problems
-- count (164)
+- count (165)
 
 ## Previously Solved (latest first)
-1. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
-2. [desks](./operation-on-primitive-types/Desks/README.md)
-3. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
-4. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
-5. [reversing](./operation-on-primitive-types/Reversing/README.md)
+1. [find all mondays](./date_and_time/FindAllMondays/README.md)
+2. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
+3. [desks](./operation-on-primitive-types/Desks/README.md)
+4. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
+5. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
 
 ## Knowledge Map
 - basics
@@ -244,6 +244,7 @@ topic|descriptions|num
 #### date and time
 topic|descriptions|num
 :-:|:-:|:-:
+[find all mondays](./date_and_time/FindAllMondays/README.md)|localdate|165
 [last day of month](./date_and_time/LastDayOfMonth/README.md)|localdate|16
 [first and last day of month](./date_and_time/FirstAndLastDayOfMonth/README.md)|localdate|127
 [similar date](./date_and_time/SimilarDate/README.md)|localdate|12
