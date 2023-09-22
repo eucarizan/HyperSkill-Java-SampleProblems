@@ -1,15 +1,16 @@
 # Sample Problems
-- count (165)
+- count (166)
 
 ## Previously Solved (latest first)
-1. [find all mondays](./date_and_time/FindAllMondays/README.md)
-2. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
-3. [desks](./operation-on-primitive-types/Desks/README.md)
-4. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
-5. [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)
+1. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
+2. [find all mondays](./date_and_time/FindAllMondays/README.md)
+3. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
+4. [desks](./operation-on-primitive-types/Desks/README.md)
+5. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
 
 ## Knowledge Map
 - basics
+  - [operation on primitive types](#operation-on-primitive-types)
   - [control flow statements](#control-flow-statements)
   - [strings](#basics-strings)
 - code organization
@@ -52,6 +53,7 @@ topic|descriptions|num
 [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)|integer types and operations|157
 [tens digit](./operation-on-primitive-types/TensDigit/README.md)|integer types and operations|158
 [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)|integer types and operations|159
+[exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)|relational operators|166
 <hr>
 
 #### control flow statements
