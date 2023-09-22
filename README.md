@@ -1,12 +1,12 @@
 # Sample Problems
-- count (168)
+- count (169)
 
 ## Previously Solved (latest first)
-1. [is between](./operation-on-primitive-types/IsBetween/README.md)
-2. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
-3. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
-4. [find all mondays](./date_and_time/FindAllMondays/README.md)
-5. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
+1. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
+2. [is between](./operation-on-primitive-types/IsBetween/README.md)
+3. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
+4. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
+5. [find all mondays](./date_and_time/FindAllMondays/README.md)
 
 ## Knowledge Map
 - basics
@@ -54,6 +54,7 @@ topic|descriptions|num
 [tens digit](./operation-on-primitive-types/TensDigit/README.md)|integer types and operations|158
 [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)|integer types and operations|159
 [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)|relational operators|167
+[check the sum](./operation-on-primitive-types/CheckTheSum/README.md)|relational operators|169
 [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)|relational operators|166
 [is between](./operation-on-primitive-types/IsBetween/README.md)|relational operators|168
 <hr>
