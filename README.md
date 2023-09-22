@@ -1,12 +1,12 @@
 # Sample Problems
-- count (166)
+- count (167)
 
 ## Previously Solved (latest first)
-1. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
-2. [find all mondays](./date_and_time/FindAllMondays/README.md)
-3. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
-4. [desks](./operation-on-primitive-types/Desks/README.md)
-5. [next even number](./operation-on-primitive-types/NextEvenNumber/README.md)
+1. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
+2. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
+3. [find all mondays](./date_and_time/FindAllMondays/README.md)
+4. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
+5. [desks](./operation-on-primitive-types/Desks/README.md)
 
 ## Knowledge Map
 - basics
@@ -53,6 +53,7 @@ topic|descriptions|num
 [squirrels and nuts](./operation-on-primitive-types/SquirrelsNutsLeft/README.md)|integer types and operations|157
 [tens digit](./operation-on-primitive-types/TensDigit/README.md)|integer types and operations|158
 [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)|integer types and operations|159
+[boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)|relational operators|167
 [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)|relational operators|166
 <hr>
 
