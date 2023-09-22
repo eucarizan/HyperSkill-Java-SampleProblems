@@ -1,12 +1,12 @@
 # Sample Problems
-- count (167)
+- count (168)
 
 ## Previously Solved (latest first)
-1. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
-2. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
-3. [find all mondays](./date_and_time/FindAllMondays/README.md)
-4. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
-5. [desks](./operation-on-primitive-types/Desks/README.md)
+1. [is between](./operation-on-primitive-types/IsBetween/README.md)
+2. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
+3. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
+4. [find all mondays](./date_and_time/FindAllMondays/README.md)
+5. [good rest on vacation](./operation-on-primitive-types/GoodRestOnVacation/README.md)
 
 ## Knowledge Map
 - basics
@@ -55,6 +55,7 @@ topic|descriptions|num
 [the sum of digits](./operation-on-primitive-types/TheSumOfDigits/README.md)|integer types and operations|159
 [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)|relational operators|167
 [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)|relational operators|166
+[is between](./operation-on-primitive-types/IsBetween/README.md)|relational operators|168
 <hr>
 
 #### control flow statements
