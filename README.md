@@ -1,12 +1,12 @@
 # Sample Problems
-- count (170)
+- count (171)
 
 ## Previously Solved (latest first)
-1. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
-2. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
-3. [is between](./operation-on-primitive-types/IsBetween/README.md)
-4. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
-5. [exactly one parameter is positive](./operation-on-primitive-types/ExactlyOneParamIsPositive/README.md)
+1. [distance](./operation-on-primitive-types/Distance/README.md)
+2. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
+3. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
+4. [is between](./operation-on-primitive-types/IsBetween/README.md)
+5. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
 
 ## Knowledge Map
 - basics
@@ -43,6 +43,7 @@
 #### operation on primitive types
 topic|descriptions|num
 :-:|:-:|:-:
+[distance](./operation-on-primitive-types/Distance/README.md)|floating-point types|172
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
 [desks](./operation-on-primitive-types/Desks/README.md)|integer types and operations|163
 [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)|integer types and operations|161
