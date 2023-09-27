@@ -1,12 +1,12 @@
 # Sample Problems
-- count (171)
+- count (173)
 
 ## Previously Solved (latest first)
-1. [distance](./operation-on-primitive-types/Distance/README.md)
-2. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
-3. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
-4. [is between](./operation-on-primitive-types/IsBetween/README.md)
-5. [boys in a sports class](./operation-on-primitive-types/BoysInASportClass/README.md)
+1. [modifying a map](./collections/ModifyingAMap/README.md)
+2. [distance](./operation-on-primitive-types/Distance/README.md)
+3. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
+4. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
+5. [is between](./operation-on-primitive-types/IsBetween/README.md)
 
 ## Knowledge Map
 - basics
@@ -211,20 +211,21 @@ topic|descriptions|num
 #### collections
 topic|descriptions|num
 :-:|:-:|:-:
-[backward indexes](./collections/BackwardIndexes/README.md)|collections, list|29
-[count value occurrences](./collections/CountValueOccurrences/README.md)|collections, list|32
-[find the nearest number](./collections/FindNearestNumber/README.md)|collections, arraylist|46
-[messages comparator](./collections/MessagesComparator/README.md)|collections, comparator|67
-[most valuable items](./collections/MostValuableItems/README.md)|collections, comparator|69
-[multiple fields](./collections/MultipleFields/README.md)|collections, comparator|72
-[odd and even](./collections/OddAndEven/README.md)|collections, comparator|70
-[reverse sorting](./collections/ReverseSorting/README.md)|collections, comparator|71
-[sort users](./collections/SortUsers/README.md)|collections, comparator|68
-[counting words](./collections/CountingWords/README.md)|collections, the map interface|60
-[creating a tree map](./collections/CreatingATreeMap/README.md)|collections, the map interface|57
-[diplaying pairs](./collections/DisplayingPairs/README.md)|collections, the map interface|59
-[sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|collections, the map interface|58
-[tricky submaps](./collections/TrickySubMaps/README.md)|collections, the map interface|113
+[backward indexes](./collections/BackwardIndexes/README.md)|list|29
+[count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
+[find the nearest number](./collections/FindNearestNumber/README.md)|arraylist|46
+[messages comparator](./collections/MessagesComparator/README.md)|comparator|67
+[most valuable items](./collections/MostValuableItems/README.md)|comparator|69
+[multiple fields](./collections/MultipleFields/README.md)|comparator|72
+[odd and even](./collections/OddAndEven/README.md)|comparator|70
+[reverse sorting](./collections/ReverseSorting/README.md)|comparator|71
+[sort users](./collections/SortUsers/README.md)|comparator|68
+[counting words](./collections/CountingWords/README.md)|the map interface|60
+[creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
+[diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
+[modifying a map](./collections/ModifyingAMap/README.md)|the map interface|173
+[sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|the map interface|58
+[tricky submaps](./collections/TrickySubMaps/README.md)|the map interface|113
 <hr>
 
 #### errorless code
