@@ -9,7 +9,7 @@ interface Observable {
 
 class RockstarGames implements Observable {
     public String releaseGame;
-    private List<Observer> observers = new ArrayList<>();
+    private final List<Observer> observers = new ArrayList<>();
 
     public void release(String releaseGame) {
         this.releaseGame = releaseGame;
@@ -28,10 +28,10 @@ class RockstarGames implements Observable {
 
     @Override
     public void notifyObservers() {
-        for (Observer observer : observers) {
+        observers.forEach(observer -> {
             System.out.println("Notification for gamer: " + observer);
             observer.update(releaseGame);
-        }
+        });
     }
 }
 
@@ -41,7 +41,7 @@ interface Observer {
 
 class Gamer implements Observer {
     private final String name;
-    private Set<String> games = new HashSet<>();
+    private final Set<String> games = new HashSet<>();
 
     public Gamer(String name) {
         this.name = name;

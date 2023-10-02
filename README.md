@@ -1,12 +1,12 @@
 # Sample Problems
-- count (174)
+- count (175)
 
 ## Previously Solved (latest first)
-1. [correct the program](./generic-programming/CorrectTheProgram/README.md)
-2. [modifying a map](./collections/ModifyingAMap/README.md)
-3. [distance](./operation-on-primitive-types/Distance/README.md)
-4. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
-5. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
+1. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
+2. [correct the program](./generic-programming/CorrectTheProgram/README.md)
+3. [modifying a map](./collections/ModifyingAMap/README.md)
+4. [distance](./operation-on-primitive-types/Distance/README.md)
+5. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
 
 ## Knowledge Map
 - basics
@@ -194,6 +194,7 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [remote control](./design_patterns/RemoteControl/README.md)|behavioral patterns, command|20
+[a new rockstar game](./design_patterns/ANewRockstarGame/README.md)|behavioral patterns, observer|175
 [rockstar games](./design_patterns/RockstarGames/README.md)|behavioral patterns, observer|34
 [max and min](./design_patterns/MaxAndMin/README.md)|behavioral patterns, strategy|21
 [build house](./design_patterns/BuildHouse/README.md)|behavioral patterns, template method|26
