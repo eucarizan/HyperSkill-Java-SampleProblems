@@ -1,12 +1,12 @@
 # Sample Problems
-- count (173)
+- count (174)
 
 ## Previously Solved (latest first)
-1. [modifying a map](./collections/ModifyingAMap/README.md)
-2. [distance](./operation-on-primitive-types/Distance/README.md)
-3. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
-4. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
-5. [is between](./operation-on-primitive-types/IsBetween/README.md)
+1. [correct the program](./generic-programming/CorrectTheProgram/README.md)
+2. [modifying a map](./collections/ModifyingAMap/README.md)
+3. [distance](./operation-on-primitive-types/Distance/README.md)
+4. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
+5. [check the sum](./operation-on-primitive-types/CheckTheSum/README.md)
 
 ## Knowledge Map
 - basics
@@ -17,6 +17,7 @@
   - [methods](#methods)
   - [object oriented programming](#object-oriented-programming)
     - [class hierarchies, interfaces and abstract classes](#class-hierarchies-interfaces-and-abstract-classes)
+  - [generic programming](#generic-programming)
   - functional programming
     - [functions](#functions)
     - [functional streams](#functional-streams)
@@ -115,6 +116,12 @@ topic|descriptions|num
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
+<hr>
+
+#### generic programming
+topic|descriptions|num
+:-:|:-:|:-:
+[correct the program](./generic-programming/CorrectTheProgram/README.md)|generic essentials, introduction to generic programming|174
 <hr>
 
 #### class hierarchies, interfaces and abstract classes
