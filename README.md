@@ -1,12 +1,12 @@
 # Sample Problems
-- count (175)
+- count (176)
 
 ## Previously Solved (latest first)
-1. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
-2. [correct the program](./generic-programming/CorrectTheProgram/README.md)
-3. [modifying a map](./collections/ModifyingAMap/README.md)
-4. [distance](./operation-on-primitive-types/Distance/README.md)
-5. [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)
+1. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
+2. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
+3. [correct the program](./generic-programming/CorrectTheProgram/README.md)
+4. [modifying a map](./collections/ModifyingAMap/README.md)
+5. [distance](./operation-on-primitive-types/Distance/README.md)
 
 ## Knowledge Map
 - basics
@@ -143,6 +143,7 @@ topic|descriptions|num
 [lambda seven args](./functions/LambdaSevenArgs/README.md)|functional interfaces|19
 [filtering accounts](./functions/FilteringAccounts/README.md)|functional interfaces|119
 [ternary operator](./functions/TernaryOperator/README.md)|functional interfaces|120
+[max of two integers](./functions/MaxOfTwoNumbers/README.md)|lambda expressions|176
 [check optional value](./functions/CheckOptionalValue/README.md)|optional|42
 [create optional value](./functions/CreateOptionalValue/README.md)|optional|41
 [the address book](./functions/TheAddressBook/README.md)|optional|107
