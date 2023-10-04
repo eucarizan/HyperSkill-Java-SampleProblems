@@ -1,12 +1,12 @@
 # Sample Problems
-- count (176)
+- count (177)
 
 ## Previously Solved (latest first)
-1. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
-2. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
-3. [correct the program](./generic-programming/CorrectTheProgram/README.md)
-4. [modifying a map](./collections/ModifyingAMap/README.md)
-5. [distance](./operation-on-primitive-types/Distance/README.md)
+1. [expression closure](./functions/ExpressionClosure/README.md)
+2. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
+3. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
+4. [correct the program](./generic-programming/CorrectTheProgram/README.md)
+5. [modifying a map](./collections/ModifyingAMap/README.md)
 
 ## Knowledge Map
 - basics
@@ -143,6 +143,7 @@ topic|descriptions|num
 [lambda seven args](./functions/LambdaSevenArgs/README.md)|functional interfaces|19
 [filtering accounts](./functions/FilteringAccounts/README.md)|functional interfaces|119
 [ternary operator](./functions/TernaryOperator/README.md)|functional interfaces|120
+[expression closure](./functions/ExpressionClosure/README.md)|lambda expressions|177
 [max of two integers](./functions/MaxOfTwoNumbers/README.md)|lambda expressions|176
 [check optional value](./functions/CheckOptionalValue/README.md)|optional|42
 [create optional value](./functions/CreateOptionalValue/README.md)|optional|41
