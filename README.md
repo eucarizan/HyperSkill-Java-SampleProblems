@@ -1,12 +1,12 @@
 # Sample Problems
-- count (177)
+- count (178)
 
 ## Previously Solved (latest first)
-1. [expression closure](./functions/ExpressionClosure/README.md)
-2. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
-3. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
-4. [correct the program](./generic-programming/CorrectTheProgram/README.md)
-5. [modifying a map](./collections/ModifyingAMap/README.md)
+1. [shape](./control_flow_statements/Shape/README.md)
+2. [expression closure](./functions/ExpressionClosure/README.md)
+3. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
+4. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
+5. [correct the program](./generic-programming/CorrectTheProgram/README.md)
 
 ## Knowledge Map
 - basics
@@ -75,6 +75,7 @@ topic|descriptions|num
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
 [floor space of room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
+[shape](./control_flow_statements/Shape/README.md)|switch statement|178
 <hr>
 
 #### strings
