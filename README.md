@@ -1,12 +1,12 @@
 # Sample Problems
-- count (178)
+- count (179)
 
 ## Previously Solved (latest first)
-1. [shape](./control_flow_statements/Shape/README.md)
-2. [expression closure](./functions/ExpressionClosure/README.md)
-3. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
-4. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
-5. [correct the program](./generic-programming/CorrectTheProgram/README.md)
+1. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
+2. [shape](./control_flow_statements/Shape/README.md)
+3. [expression closure](./functions/ExpressionClosure/README.md)
+4. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
+5. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
 
 ## Knowledge Map
 - basics
@@ -70,6 +70,7 @@ topic|descriptions|num
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
+[the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
 [natural number squares](./control_flow_statements/NaturalNumbersSquares/README.md)|while, do-while|3
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
