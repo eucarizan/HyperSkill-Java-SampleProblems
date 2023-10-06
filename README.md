@@ -1,12 +1,12 @@
 # Sample Problems
-- count (179)
+- count (180)
 
 ## Previously Solved (latest first)
-1. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
-2. [shape](./control_flow_statements/Shape/README.md)
-3. [expression closure](./functions/ExpressionClosure/README.md)
-4. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
-5. [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)
+1. [pick your team](./design_patterns/PickYourTeam/README.md)
+2. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
+3. [shape](./control_flow_statements/Shape/README.md)
+4. [expression closure](./functions/ExpressionClosure/README.md)
+5. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
 
 ## Knowledge Map
 - basics
@@ -201,6 +201,7 @@ topic|descriptions|num
 [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)|behavioral patterns, observer|175
 [rockstar games](./design_patterns/RockstarGames/README.md)|behavioral patterns, observer|34
 [max and min](./design_patterns/MaxAndMin/README.md)|behavioral patterns, strategy|21
+[pick your team](./design_patterns/PickYourTeam/README.md)|behavioral patterns, strategy|180
 [build house](./design_patterns/BuildHouse/README.md)|behavioral patterns, template method|26
 [career](./design_patterns/Career/README.md)|behavioral patterns, template method|22
 [social networks](./design_patterns/SocialNetworks/README.md)|behavioral patterns, template method|27
