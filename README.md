@@ -1,12 +1,12 @@
 # Sample Problems
-- count (180)
+- count (181)
 
 ## Previously Solved (latest first)
-1. [pick your team](./design_patterns/PickYourTeam/README.md)
-2. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
-3. [shape](./control_flow_statements/Shape/README.md)
-4. [expression closure](./functions/ExpressionClosure/README.md)
-5. [max of two integers](./functions/MaxOfTwoNumbers/README.md)
+1. [robot control](./oop/RobotControl/README.md)
+2. [pick your team](./design_patterns/PickYourTeam/README.md)
+3. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
+4. [shape](./control_flow_statements/Shape/README.md)
+5. [expression closure](./functions/ExpressionClosure/README.md)
 
 ## Knowledge Map
 - basics
@@ -116,6 +116,7 @@ topic|descriptions|num
 [managing a process](./oop/ManagingProcess/README.md)|nested classes, anonymous classes|35
 [pumpkin and canlde](./oop/PumpkinAndCandle/README.md)|nested classes, inner classes|148
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
+[robot control](./oop/RobotControl/README.md)|other concepts, fields and methods in enum|181
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 <hr>
