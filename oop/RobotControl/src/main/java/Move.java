@@ -1,26 +1,18 @@
 public class Move {
     public static int[] moveRobot(Robot robot, int toX, int toY) {
         if (robot.getX() < toX) {
-            while (!"RIGHT".equals(robot.getDirection().name())) {
-                robot.turnRight();
-            }
+            faceRightDirection(robot, "RIGHT");
         } else if (robot.getX() > toX) {
-            while (!"LEFT".equals(robot.getDirection().name())) {
-                robot.turnLeft();
-            }
+            faceRightDirection(robot, "LEFT");
         }
         while (robot.getX() != toX) {
             robot.stepForward();
         }
 
         if (robot.getY() < toY) {
-            while (!"UP".equals(robot.getDirection().name())) {
-                robot.turnRight();
-            }
+            faceRightDirection(robot, "UP");
         } else if (robot.getY() > toY) {
-            while (!"DOWN".equals(robot.getDirection().name())) {
-                robot.turnLeft();
-            }
+            faceRightDirection(robot, "DOWN");
         }
         while (robot.getY() != toY) {
             robot.stepForward();
@@ -28,4 +20,11 @@ public class Move {
 
         return new int[]{robot.getX(), robot.getY()};
     }
+
+    private static void faceRightDirection(Robot robot, String direction) {
+        while (!direction.equals(robot.getDirection().name())) {
+            robot.turnRight();
+        }
+    }
+
 }

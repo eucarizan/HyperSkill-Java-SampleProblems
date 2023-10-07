@@ -80,6 +80,7 @@ Try to crack this problem!
 **Tip**: Pay attention to the loops: sometimes they tend to become infinite...
 
 ## Tags
+- code organization
 - object-oriented programming
 - other concepts
 - enumerations
