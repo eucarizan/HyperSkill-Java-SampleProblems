@@ -1,12 +1,12 @@
 # Sample Problems
-- count (182)
+- count (183)
 
 ## Previously Solved (latest first)
-1. [balance management](./oop/BalanceManagement/README.md)
-2. [robot control](./oop/RobotControl/README.md)
-3. [pick your team](./design_patterns/PickYourTeam/README.md)
-4. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
-5. [shape](./control_flow_statements/Shape/README.md)
+1. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
+2. [balance management](./oop/BalanceManagement/README.md)
+3. [robot control](./oop/RobotControl/README.md)
+4. [pick your team](./design_patterns/PickYourTeam/README.md)
+5. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
 
 ## Knowledge Map
 - basics
@@ -228,6 +228,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [backward indexes](./collections/BackwardIndexes/README.md)|list|29
 [count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
+[concat positive numbers](./collections/ConcatPositiveNumbers/README.md)|arraylist|183
 [find the nearest number](./collections/FindNearestNumber/README.md)|arraylist|46
 [messages comparator](./collections/MessagesComparator/README.md)|comparator|67
 [most valuable items](./collections/MostValuableItems/README.md)|comparator|69
