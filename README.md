@@ -1,12 +1,12 @@
 # Sample Problems
-- count (183)
+- count (184)
 
 ## Previously Solved (latest first)
-1. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
-2. [balance management](./oop/BalanceManagement/README.md)
-3. [robot control](./oop/RobotControl/README.md)
-4. [pick your team](./design_patterns/PickYourTeam/README.md)
-5. [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)
+1. [forex broker](./design_patterns/ForexBroker/README.md)
+2. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
+3. [balance management](./oop/BalanceManagement/README.md)
+4. [robot control](./oop/RobotControl/README.md)
+5. [pick your team](./design_patterns/PickYourTeam/README.md)
 
 ## Knowledge Map
 - basics
@@ -199,6 +199,7 @@ topic|descriptions|num
 #### design patterns
 topic|descriptions|num
 :-:|:-:|:-:
+[forex broker](./design_patterns/ForexBroker/README.md)|behavioral patterns, command|184
 [remote control](./design_patterns/RemoteControl/README.md)|behavioral patterns, command|20
 [a new rockstar game](./design_patterns/ANewRockstarGame/README.md)|behavioral patterns, observer|175
 [rockstar games](./design_patterns/RockstarGames/README.md)|behavioral patterns, observer|34
