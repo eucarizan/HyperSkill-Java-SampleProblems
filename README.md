@@ -1,12 +1,12 @@
 # Sample Problems
-- count (185)
+- count (186)
 
 ## Previously Solved (latest first)
-1. [getting submaps](./collections/GettingSubmaps/README.md)
-2. [forex broker](./design_patterns/ForexBroker/README.md)
-3. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
-4. [balance management](./oop/BalanceManagement/README.md)
-5. [robot control](./oop/RobotControl/README.md)
+1. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
+2. [getting submaps](./collections/GettingSubmaps/README.md)
+3. [forex broker](./design_patterns/ForexBroker/README.md)
+4. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
+5. [balance management](./oop/BalanceManagement/README.md)
 
 ## Knowledge Map
 - basics
@@ -241,6 +241,7 @@ topic|descriptions|num
 [creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
 [diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
 [getting submaps](./collections/GettingSubmaps/README.md)|the map interface|185
+[kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)|the map interface|186
 [modifying a map](./collections/ModifyingAMap/README.md)|the map interface|173
 [sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|the map interface|58
 [tricky submaps](./collections/TrickySubMaps/README.md)|the map interface|113
