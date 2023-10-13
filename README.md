@@ -1,12 +1,12 @@
 # Sample Problems
-- count (188)
+- count (189)
 
 ## Previously Solved (latest first)
-1. [value or min](./collections/ValueOrMin/README.md)
-2. [sum of values](./collections/SumOfValues/README.md)
-3. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
-4. [getting submaps](./collections/GettingSubmaps/README.md)
-5. [forex broker](./design_patterns/ForexBroker/README.md)
+1. [check the essay](./regular_expressions/CheckTheEssay/README.md)
+2. [value or min](./collections/ValueOrMin/README.md)
+3. [sum of values](./collections/SumOfValues/README.md)
+4. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
+5. [getting submaps](./collections/GettingSubmaps/README.md)
 
 ## Knowledge Map
 - basics
@@ -308,6 +308,7 @@ topic|descriptions|num
 [check the clock time](./regular_expressions/CheckTheClockTime/README.md)|string matches|52
 [check the date](./regular_expressions/CheckTheDate/README.md)|string matchees|53
 [safe password](./regular_expressions/SafePassword/README.md)|string matches|49
+[check the essay](./regular_expressions/CheckTheEssay/README.md)|match results|189
 [extracting big numbers from a text](./regular_expressions/ExtractBigNumbersFromText/README.md)|patterns and matchers|56
 [find all passwords](./regular_expressions/FindAllPasswords/README.md)|patterns and matchers|55
 [in the middle of a word](./regular_expressions/InTheMiddleOfWord/README.md)|patterns and matchers|47
