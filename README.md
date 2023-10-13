@@ -1,12 +1,12 @@
 # Sample Problems
-- count (187)
+- count (188)
 
 ## Previously Solved (latest first)
-1. [sum of values](./collections/SumOfValues/README.md)
-2. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
-3. [getting submaps](./collections/GettingSubmaps/README.md)
-4. [forex broker](./design_patterns/ForexBroker/README.md)
-5. [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)
+1. [value or min](./collections/ValueOrMin/README.md)
+2. [sum of values](./collections/SumOfValues/README.md)
+3. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
+4. [getting submaps](./collections/GettingSubmaps/README.md)
+5. [forex broker](./design_patterns/ForexBroker/README.md)
 
 ## Knowledge Map
 - basics
@@ -246,6 +246,7 @@ topic|descriptions|num
 [sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|the map interface|58
 [sum of values](./collections/SumOfValues/README.md)|the map interface|187
 [tricky submaps](./collections/TrickySubMaps/README.md)|the map interface|113
+[value or min](./collections/ValueOrMin/README.md)|the map interface|188
 <hr>
 
 #### errorless code

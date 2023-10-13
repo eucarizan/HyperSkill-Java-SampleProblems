@@ -21,6 +21,7 @@ CLEARD 0
 - working with data
 - collections
 - collections framework
+- the map interface
 
 ## Code
 - [solution class](./src/main/java/Solution.java)
