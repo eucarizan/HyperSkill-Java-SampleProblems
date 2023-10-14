@@ -1,12 +1,12 @@
 # Sample Problems
-- count (189)
+- count (190)
 
 ## Previously Solved (latest first)
-1. [check the essay](./regular_expressions/CheckTheEssay/README.md)
-2. [value or min](./collections/ValueOrMin/README.md)
-3. [sum of values](./collections/SumOfValues/README.md)
-4. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
-5. [getting submaps](./collections/GettingSubmaps/README.md)
+1. [publications](./oop/publications/README.md)
+2. [check the essay](./regular_expressions/CheckTheEssay/README.md)
+3. [value or min](./collections/ValueOrMin/README.md)
+4. [sum of values](./collections/SumOfValues/README.md)
+5. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
 
 ## Knowledge Map
 - basics
@@ -118,6 +118,7 @@ topic|descriptions|num
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
 [balance management](./oop/BalanceManagement/README.md)|other concepts, fields and methods in enum|182
 [robot control](./oop/RobotControl/README.md)|other concepts, fields and methods in enum|181
+[publications](./oop/publications/README.md)|overriding methods, hiding and overriding|190
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 <hr>
