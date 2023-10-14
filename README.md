@@ -1,12 +1,12 @@
 # Sample Problems
-- count (193)
+- count (194)
 
 ## Previously Solved (latest first)
-1. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
-2. [shapes area](./oop/ShapesArea/README.md)
-3. [saying animals](./oop/SayingAnimals/README.md)
-4. [publications](./oop/publications/README.md)
-5. [check the essay](./regular_expressions/CheckTheEssay/README.md)
+1. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
+2. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
+3. [shapes area](./oop/ShapesArea/README.md)
+4. [saying animals](./oop/SayingAnimals/README.md)
+5. [publications](./oop/publications/README.md)
 
 ## Knowledge Map
 - basics
@@ -317,6 +317,7 @@ topic|descriptions|num
 [find all passwords](./regular_expressions/FindAllPasswords/README.md)|patterns and matchers|55
 [in the middle of a word](./regular_expressions/InTheMiddleOfWord/README.md)|patterns and matchers|47
 [number parsing](./regular_expressions/NumberParsing/README.md)|patterns and matchers|122
+[illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)|regexes in programs|194
 [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)|regexes in programs|154
 <hr>
 
