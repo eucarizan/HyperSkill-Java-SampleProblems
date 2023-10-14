@@ -1,13 +1,12 @@
 # Sample Problems
-- count (196)
+- count (197)
 
 ## Previously Solved (latest first)
-1. [email address](./regular_expressions/EmailAddress/README.md)
-2. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
-3. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
-4. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
-5. [shapes area](./oop/ShapesArea/README.md)
-<!-- [start or end of word](./regular_expressions/StartOrEndOfWord/README.md) -->
+1. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
+2. [email address](./regular_expressions/EmailAddress/README.md)
+3. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
+4. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
+5. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
 
 ## Knowledge Map
 - basics
@@ -320,10 +319,10 @@ topic|descriptions|num
 [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)|patterns and matchers|195
 [in the middle of a word](./regular_expressions/InTheMiddleOfWord/README.md)|patterns and matchers|47
 [number parsing](./regular_expressions/NumberParsing/README.md)|patterns and matchers|122
+[start or end of word](./regular_expressions/StartOrEndOfWord/README.md)|patterns and matchers|197
 [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)|regexes in programs|194
 [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)|regexes in programs|154
 <hr>
-<!-- [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)|patterns and matchers|197 -->
 
 #### search algorithms
 topic|descriptions|num
