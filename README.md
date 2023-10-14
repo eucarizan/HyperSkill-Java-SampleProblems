@@ -1,12 +1,12 @@
 # Sample Problems
-- count (190)
+- count (191)
 
 ## Previously Solved (latest first)
-1. [publications](./oop/publications/README.md)
-2. [check the essay](./regular_expressions/CheckTheEssay/README.md)
-3. [value or min](./collections/ValueOrMin/README.md)
-4. [sum of values](./collections/SumOfValues/README.md)
-5. [kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)
+1. [saying animals](./oop/SayingAnimals/README.md)
+2. [publications](./oop/publications/README.md)
+3. [check the essay](./regular_expressions/CheckTheEssay/README.md)
+4. [value or min](./collections/ValueOrMin/README.md)
+5. [sum of values](./collections/SumOfValues/README.md)
 
 ## Knowledge Map
 - basics
@@ -119,6 +119,7 @@ topic|descriptions|num
 [balance management](./oop/BalanceManagement/README.md)|other concepts, fields and methods in enum|182
 [robot control](./oop/RobotControl/README.md)|other concepts, fields and methods in enum|181
 [publications](./oop/publications/README.md)|overriding methods, hiding and overriding|190
+[saying animals](./oop/SayingAnimals/README.md)|overriding methods, hiding and overriding|191
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 <hr>
