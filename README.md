@@ -1,12 +1,12 @@
 # Sample Problems
-- count (192)
+- count (193)
 
 ## Previously Solved (latest first)
-1. [shapes area](./oop/ShapesArea/README.md)
-2. [saying animals](./oop/SayingAnimals/README.md)
-3. [publications](./oop/publications/README.md)
-4. [check the essay](./regular_expressions/CheckTheEssay/README.md)
-5. [value or min](./collections/ValueOrMin/README.md)
+1. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
+2. [shapes area](./oop/ShapesArea/README.md)
+3. [saying animals](./oop/SayingAnimals/README.md)
+4. [publications](./oop/publications/README.md)
+5. [check the essay](./regular_expressions/CheckTheEssay/README.md)
 
 ## Knowledge Map
 - basics
@@ -45,6 +45,7 @@
 topic|descriptions|num
 :-:|:-:|:-:
 [distance](./operation-on-primitive-types/Distance/README.md)|floating-point types|172
+[exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)|floating-point types|193
 [arithmethc expression](./operation-on-primitive-types/ArithmeticExpression/README.md)|integer types and operations|155
 [desks](./operation-on-primitive-types/Desks/README.md)|integer types and operations|163
 [difference of times](./operation-on-primitive-types/DifferenceOfTimes/README.md)|integer types and operations|161
