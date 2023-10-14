@@ -1,12 +1,12 @@
 # Sample Problems
-- count (191)
+- count (192)
 
 ## Previously Solved (latest first)
-1. [saying animals](./oop/SayingAnimals/README.md)
-2. [publications](./oop/publications/README.md)
-3. [check the essay](./regular_expressions/CheckTheEssay/README.md)
-4. [value or min](./collections/ValueOrMin/README.md)
-5. [sum of values](./collections/SumOfValues/README.md)
+1. [shapes area](./oop/ShapesArea/README.md)
+2. [saying animals](./oop/SayingAnimals/README.md)
+3. [publications](./oop/publications/README.md)
+4. [check the essay](./regular_expressions/CheckTheEssay/README.md)
+5. [value or min](./collections/ValueOrMin/README.md)
 
 ## Knowledge Map
 - basics
@@ -120,6 +120,7 @@ topic|descriptions|num
 [robot control](./oop/RobotControl/README.md)|other concepts, fields and methods in enum|181
 [publications](./oop/publications/README.md)|overriding methods, hiding and overriding|190
 [saying animals](./oop/SayingAnimals/README.md)|overriding methods, hiding and overriding|191
+[shapes area](./oop/ShapesArea/README.md)|overriding methods, hiding and overriding|192
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 <hr>
