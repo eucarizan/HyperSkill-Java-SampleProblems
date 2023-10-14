@@ -1,13 +1,12 @@
 # Sample Problems
-- count (195)
+- count (196)
 
 ## Previously Solved (latest first)
-1. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
-2. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
-3. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
-4. [shapes area](./oop/ShapesArea/README.md)
-5. [saying animals](./oop/SayingAnimals/README.md)
-<!-- [email address](./regular_expressions/EmailAddress/README.md) -->
+1. [email address](./regular_expressions/EmailAddress/README.md)
+2. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
+3. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
+4. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
+5. [shapes area](./oop/ShapesArea/README.md)
 <!-- [start or end of word](./regular_expressions/StartOrEndOfWord/README.md) -->
 
 ## Knowledge Map
@@ -315,6 +314,7 @@ topic|descriptions|num
 [check the date](./regular_expressions/CheckTheDate/README.md)|string matchees|53
 [safe password](./regular_expressions/SafePassword/README.md)|string matches|49
 [check the essay](./regular_expressions/CheckTheEssay/README.md)|match results|189
+[email address](./regular_expressions/EmailAddress/README.md)|patterns and matchers|196
 [extracting big numbers from a text](./regular_expressions/ExtractBigNumbersFromText/README.md)|patterns and matchers|56
 [find all passwords](./regular_expressions/FindAllPasswords/README.md)|patterns and matchers|55
 [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)|patterns and matchers|195
@@ -323,7 +323,6 @@ topic|descriptions|num
 [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)|regexes in programs|194
 [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)|regexes in programs|154
 <hr>
-<!-- [email address](./regular_expressions/EmailAddress/README.md)|patterns and matchers|196 -->
 <!-- [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)|patterns and matchers|197 -->
 
 #### search algorithms
