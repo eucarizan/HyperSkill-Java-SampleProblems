@@ -1,12 +1,12 @@
 # Sample Problems
-- count (199)
+- count (200)
 
 ## Previously Solved (latest first)
-1. [list based implementation](./design_patterns/ListBasedImpl/README.md)
-2. [sum up optional value](./functions/SumUpOptionalValues/README.md)
-3. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
-4. [email address](./regular_expressions/EmailAddress/README.md)
-5. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
+1. [map based implementation](./design_patterns/MapBasedImpl/README.md)
+2. [list based implementation](./design_patterns/ListBasedImpl/README.md)
+3. [sum up optional value](./functions/SumUpOptionalValues/README.md)
+4. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
+5. [email address](./regular_expressions/EmailAddress/README.md)
 
 ## Knowledge Map
 - basics
@@ -218,6 +218,7 @@ topic|descriptions|num
 [static factory for time](./design_patterns/StaticFactoryForTime/README.md)|creational patterns, encapsulating object creation|18
 [motor static factory](./design_patterns/MotorStaticFactory/README.md)|creational patterns, static factory idiom|23
 [list based implementation](./design_patterns/ListBasedImpl/README.md)|data access object for jdbc|199
+[map based implementation](./design_patterns/MapBasedImpl/README.md)|data access object for jdbc|200
 <hr>
 
 #### arrays
