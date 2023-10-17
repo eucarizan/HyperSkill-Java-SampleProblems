@@ -1,12 +1,12 @@
 # Sample Problems
-- count (197)
+- count (198)
 
 ## Previously Solved (latest first)
-1. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
-2. [email address](./regular_expressions/EmailAddress/README.md)
-3. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
-4. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
-5. [exponential expression](./operation-on-primitive-types/ExponentialExpression/README.md)
+1. [sum up optional value](./functions/SumUpOptionalValues/README.md)
+2. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
+3. [email address](./regular_expressions/EmailAddress/README.md)
+4. [find a word with given length](./regular_expressions/FindAWordWithGivenLength/README.md)
+5. [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)
 
 ## Knowledge Map
 - basics
@@ -155,6 +155,7 @@ topic|descriptions|num
 [max of two integers](./functions/MaxOfTwoNumbers/README.md)|lambda expressions|176
 [check optional value](./functions/CheckOptionalValue/README.md)|optional|42
 [create optional value](./functions/CreateOptionalValue/README.md)|optional|41
+[sum up optional value](./functions/SumUpOptionalValues/README.md)|optional|198
 [the address book](./functions/TheAddressBook/README.md)|optional|107
 <hr>
 
