@@ -1,12 +1,12 @@
 # Sample Problems
-- count (200)
+- count (201)
 
 ## Previously Solved (latest first)
-1. [map based implementation](./design_patterns/MapBasedImpl/README.md)
-2. [list based implementation](./design_patterns/ListBasedImpl/README.md)
-3. [sum up optional value](./functions/SumUpOptionalValues/README.md)
-4. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
-5. [email address](./regular_expressions/EmailAddress/README.md)
+1. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
+2. [map based implementation](./design_patterns/MapBasedImpl/README.md)
+3. [list based implementation](./design_patterns/ListBasedImpl/README.md)
+4. [sum up optional value](./functions/SumUpOptionalValues/README.md)
+5. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
 
 ## Knowledge Map
 - basics
@@ -66,6 +66,7 @@ topic|descriptions|num
 #### control flow statements
 topic|descriptions|num
 :-:|:-:|:-:
+[check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)|conditional statement|201
 [healthy sheep](./control_flow_statements/HealthySheep/README.md)|conditional statement|1
 [interval](./control_flow_statements/Interval/README.md)|conditional statement|2
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
