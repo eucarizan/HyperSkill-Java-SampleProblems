@@ -1,12 +1,12 @@
 # Sample Problems
-- count (208)
+- count (209)
 
 ## Previously Solved (latest first)
-1. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
-2. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
-3. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
-4. [chocolate](./control_flow_statements/Chocolate/README.md)
-5. [the sequence](./control_flow_statements/TheSequence/README.md)
+1. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
+2. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
+3. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
+4. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
+5. [chocolate](./control_flow_statements/Chocolate/README.md)
 
 ## Knowledge Map
 - basics
@@ -76,6 +76,7 @@ topic|descriptions|num
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
+[collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)|the while and do-while loops|209
 [squares of natural numbers](./control_flow_statements/NaturalNumbersSquares/README.md)|the while and do-while loops|3
 [the smallest value](./control_flow_statements/TheSmallestValue/README.md)|the while and do-while loops|207
 [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)|the while and do-while loops|208
