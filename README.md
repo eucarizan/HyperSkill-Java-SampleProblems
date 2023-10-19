@@ -1,12 +1,12 @@
 # Sample Problems
-- count (203)
+- count (204)
 
 ## Previously Solved (latest first)
-1. [leap year](./control_flow_statements/LeapYear/README.md)
-2. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
-3. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
-4. [map based implementation](./design_patterns/MapBasedImpl/README.md)
-5. [list based implementation](./design_patterns/ListBasedImpl/README.md)
+1. [the sequence](./control_flow_statements/TheSequence/README.md)
+2. [leap year](./control_flow_statements/LeapYear/README.md)
+3. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
+4. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
+5. [map based implementation](./design_patterns/MapBasedImpl/README.md)
 
 ## Knowledge Map
 - basics
@@ -75,7 +75,8 @@ topic|descriptions|num
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
-[natural number squares](./control_flow_statements/NaturalNumbersSquares/README.md)|while, do-while|3
+[squares of natural numbers](./control_flow_statements/NaturalNumbersSquares/README.md)|the while and do-while loops|3
+[the sequence](./control_flow_statements/TheSequence/README.md)|the while and do-while loops|204
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
