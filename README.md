@@ -1,12 +1,12 @@
 # Sample Problems
-- count (205)
+- count (206)
 
 ## Previously Solved (latest first)
-1. [chocolate](./control_flow_statements/Chocolate/README.md)
-2. [the sequence](./control_flow_statements/TheSequence/README.md)
-3. [leap year](./control_flow_statements/LeapYear/README.md)
-4. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
-5. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
+1. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
+2. [chocolate](./control_flow_statements/Chocolate/README.md)
+3. [the sequence](./control_flow_statements/TheSequence/README.md)
+4. [leap year](./control_flow_statements/LeapYear/README.md)
+5. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
 
 ## Knowledge Map
 - basics
@@ -78,6 +78,7 @@ topic|descriptions|num
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
 [squares of natural numbers](./control_flow_statements/NaturalNumbersSquares/README.md)|the while and do-while loops|3
 [the sequence](./control_flow_statements/TheSequence/README.md)|the while and do-while loops|204
+[the sum of elements](./control_flow_statements/TheSumOfElements/README.md)|the while and do-while loops|206
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
