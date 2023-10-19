@@ -1,12 +1,12 @@
 # Sample Problems
-- count (204)
+- count (205)
 
 ## Previously Solved (latest first)
-1. [the sequence](./control_flow_statements/TheSequence/README.md)
-2. [leap year](./control_flow_statements/LeapYear/README.md)
-3. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
-4. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
-5. [map based implementation](./design_patterns/MapBasedImpl/README.md)
+1. [chocolate](./control_flow_statements/Chocolate/README.md)
+2. [the sequence](./control_flow_statements/TheSequence/README.md)
+3. [leap year](./control_flow_statements/LeapYear/README.md)
+4. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
+5. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
 
 ## Knowledge Map
 - basics
@@ -67,6 +67,7 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)|conditional statement|201
+[chocolate](./control_flow_statements/Chocolate/README.md)|conditional statement|205
 [healthy sheep](./control_flow_statements/HealthySheep/README.md)|conditional statement|1
 [interval](./control_flow_statements/Interval/README.md)|conditional statement|2
 [leap year](./control_flow_statements/LeapYear/README.md)|conditional statement|203
