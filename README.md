@@ -1,12 +1,12 @@
 # Sample Problems
-- count (201)
+- count (202)
 
 ## Previously Solved (latest first)
-1. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
-2. [map based implementation](./design_patterns/MapBasedImpl/README.md)
-3. [list based implementation](./design_patterns/ListBasedImpl/README.md)
-4. [sum up optional value](./functions/SumUpOptionalValues/README.md)
-5. [start or end of word](./regular_expressions/StartOrEndOfWord/README.md)
+1. [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)
+2. [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)
+3. [map based implementation](./design_patterns/MapBasedImpl/README.md)
+4. [list based implementation](./design_patterns/ListBasedImpl/README.md)
+5. [sum up optional value](./functions/SumUpOptionalValues/README.md)
 
 ## Knowledge Map
 - basics
@@ -69,6 +69,7 @@ topic|descriptions|num
 [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)|conditional statement|201
 [healthy sheep](./control_flow_statements/HealthySheep/README.md)|conditional statement|1
 [interval](./control_flow_statements/Interval/README.md)|conditional statement|2
+[symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)|conditional statement|202
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4

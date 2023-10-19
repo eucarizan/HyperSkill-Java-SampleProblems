@@ -4,21 +4,17 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import java.util.List;
-import java.util.Arrays;
-
 @SuppressWarnings("unused")
 public class SomeParamTest {
 
-    @ParameterizedTest(name = "{0} -- isPositive({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- isSymmetrical({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
-            "testWithPositive : 7 : YES",
-            "testWithNegative : -8 : NO",
-            "testWithZero : 0 : NO",
+            "testWithSymmetric : 2002 : true",
+            "testWithNonSymmetric : 2008 : false",
     }, delimiter = ':')
-    public void test(String name, int input, String expected) {
-        var result = Solution.isPositive(input) ? "YES" : "NO";
+    public void test(String name, int param, boolean expected) {
+        var result = Solution.reverse(param) == param;
 
         assertEquals(expected, result);
     }
