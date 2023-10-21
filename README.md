@@ -1,12 +1,12 @@
 # Sample Problems
-- count (210)
+- count (211)
 
 ## Previously Solved (latest first)
-1. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
-2. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
-3. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
-4. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
-5. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
+1. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
+2. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
+3. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
+4. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
+5. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
 
 ## Knowledge Map
 - basics
@@ -74,6 +74,7 @@ topic|descriptions|num
 [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)|conditional statement|202
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
+[arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)|the for-loop|210
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
