@@ -16,6 +16,17 @@ public class SomeParamTest {
     @CsvSource(value = {
             "testWithLargeNum : 6188989133 : 13",
             "testWithSmallNum : 6 : 4",
+            "test3 : 6227020800 : 14",
+            "test4 : 4371919911 : 13",
+            "test5 : 6000784116 : 13",
+            "test6 : 2446070542 : 13",
+            "test7 : 1584721623 : 13",
+            "test8 : 3482876679 : 13",
+            "test9 : 7364741330 : 14",
+            "test10 : 5009877486 : 13",
+            "test11 : 3255664916 : 13",
+            "test12 : 6631681255 : 14",
+            "test13 : 4633874282 : 13",
     }, delimiter = ':')
     public void test(String name, long param, long expected) {
         var result = Solution.method(param);

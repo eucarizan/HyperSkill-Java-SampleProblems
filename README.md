@@ -1,12 +1,12 @@
 # Sample Problems
-- count (209)
+- count (210)
 
 ## Previously Solved (latest first)
-1. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
-2. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
-3. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
-4. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
-5. [chocolate](./control_flow_statements/Chocolate/README.md)
+1. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
+2. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
+3. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
+4. [the smallest value](./control_flow_statements/TheSmallestValue/README.md)
+5. [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)
 
 ## Knowledge Map
 - basics
@@ -75,6 +75,7 @@ topic|descriptions|num
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
+[the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)|the for-loop|210
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
 [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)|the while and do-while loops|209
 [squares of natural numbers](./control_flow_statements/NaturalNumbersSquares/README.md)|the while and do-while loops|3
@@ -85,7 +86,7 @@ topic|descriptions|num
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
-[floor space of room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
+[floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 [shape](./control_flow_statements/Shape/README.md)|switch statement|178
 <hr>
 
