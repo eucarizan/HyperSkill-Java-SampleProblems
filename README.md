@@ -1,12 +1,12 @@
 # Sample Problems
-- count (212)
+- count (213)
 
 ## Previously Solved (latest first)
-1. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
-2. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
-3. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
-4. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
-5. [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)
+1. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
+2. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
+3. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
+4. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
+5. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
 
 ## Knowledge Map
 - basics
@@ -76,6 +76,7 @@ topic|descriptions|num
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
 [fizz buzz](./control_flow_statements/FizzBuzz/README.md)|the for-loop|212
+[numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)|the for-loop|213
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)|the for-loop|210
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
