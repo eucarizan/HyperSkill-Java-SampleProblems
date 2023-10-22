@@ -1,12 +1,12 @@
 # Sample Problems
-- count (213)
+- count (214)
 
 ## Previously Solved (latest first)
-1. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
-2. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
-3. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
-4. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
-5. [collatz conjecture](./control_flow_statements/CollatzConjecture/README.md)
+1. [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)
+2. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
+3. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
+4. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
+5. [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)
 
 ## Knowledge Map
 - basics
@@ -76,6 +76,7 @@ topic|descriptions|num
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
 [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
 [fizz buzz](./control_flow_statements/FizzBuzz/README.md)|the for-loop|212
+[maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)|the for-loop|214
 [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)|the for-loop|213
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)|the for-loop|210
