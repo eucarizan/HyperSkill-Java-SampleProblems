@@ -1,12 +1,12 @@
 # Sample Problems
-- count (215)
+- count (216)
 
 ## Previously Solved (latest first)
-1. [grades](./control_flow_statements/Grades/README.md)
-2. [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)
-3. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
-4. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
-5. [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)
+1. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
+2. [grades](./control_flow_statements/Grades/README.md)
+3. [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)
+4. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
+5. [fizz buzz](./control_flow_statements/FizzBuzz/README.md)
 
 ## Knowledge Map
 - basics
@@ -79,6 +79,7 @@ topic|descriptions|num
 [grades](./control_flow_statements/Grades/README.md)|the for-loop|215
 [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)|the for-loop|214
 [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)|the for-loop|213
+[the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)|the for-loop|216
 [size of parts](./control_flow_statements/SizeOfParts/README.md)|the for-loop|4
 [the sum of integers from a to b](./control_flow_statements/SumOfIntsAToB/README.md)|the for-loop|210
 [the count of numbers divisible by n](./control_flow_statements/CountNumbersDivisibleByN/README.md)|the for-loop|179
