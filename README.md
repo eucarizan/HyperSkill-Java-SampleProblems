@@ -1,12 +1,12 @@
 # Sample Problems
-- count (224)
+- count (225)
 
 ## Previously Solved (latest first)
-1. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
-2. [direction](./control_flow_statements/Direction/README.md)
-3. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
-4. [test learners](./control_flow_statements/TestLearners/README.md)
-5. [bus tour](./control_flow_statements/BusTour/README.md)
+1. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
+2. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
+3. [direction](./control_flow_statements/Direction/README.md)
+4. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
+5. [test learners](./control_flow_statements/TestLearners/README.md)
 
 ## Knowledge Map
 - basics
@@ -84,6 +84,7 @@ topic|descriptions|num
 [direction](./control_flow_statements/Direction/README.md)|switch statement|223
 [floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)|switch statement|222
+[harry potter houses](./control_flow_statements/HarryPotter/README.md)|switch statement|225
 [shape](./control_flow_statements/Shape/README.md)|switch statement|178
 [simple calculator](./control_flow_statements/SimpleCalculator/README.md)|switch statement|224
 [test learners](./control_flow_statements/TestLearners/README.md)|switch statement|221
