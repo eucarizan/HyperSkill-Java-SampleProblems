@@ -1,12 +1,12 @@
 # Sample Problems
-- count (217)
+- count (218)
 
 ## Previously Solved (latest first)
-1. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
-2. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
-3. [grades](./control_flow_statements/Grades/README.md)
-4. [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)
-5. [numbers divisible by six](./control_flow_statements/NumbersDivisibleBy6/README.md)
+1. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
+2. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
+3. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
+4. [grades](./control_flow_statements/Grades/README.md)
+5. [maximum element divisible by four](./control_flow_statements/MaxElementDivisibleBy4/README.md)
 
 ## Knowledge Map
 - basics
@@ -67,6 +67,7 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)|branching statements|217
+[the sequence](./control_flow_statements/TheSequenceDigits/README.md)|branching statements|218
 [check a number if positive](./control_flow_statements/CheckANumberIfPositive/README.md)|conditional statement|201
 [chocolate](./control_flow_statements/Chocolate/README.md)|conditional statement|205
 [healthy sheep](./control_flow_statements/HealthySheep/README.md)|conditional statement|1
