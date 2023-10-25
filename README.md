@@ -1,12 +1,12 @@
 # Sample Problems
-- count (220)
+- count (221)
 
 ## Previously Solved (latest first)
-1. [bus tour](./control_flow_statements/BusTour/README.md)
-2. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
-3. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
-4. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
-5. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
+1. [test learners](./control_flow_statements/TestLearners/README.md)
+2. [bus tour](./control_flow_statements/BusTour/README.md)
+3. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
+4. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
+5. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
 
 ## Knowledge Map
 - basics
@@ -78,6 +78,12 @@ topic|descriptions|num
 [symmetrical number](./control_flow_statements/SymmetricalNumber/README.md)|conditional statement|202
 [the army of units](./control_flow_statements/TheArmyOfUnits/README.md)|conditional statement|125
 [triangle](./control_flow_statements/Triangle/README.md)|conditional statement|36
+[days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
+[meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
+[months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
+[floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
+[shape](./control_flow_statements/Shape/README.md)|switch statement|178
+[test learners](./control_flow_statements/TestLearners/README.md)|switch statement|221
 [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
 [fizz buzz](./control_flow_statements/FizzBuzz/README.md)|the for-loop|212
 [grades](./control_flow_statements/Grades/README.md)|the for-loop|215
@@ -93,11 +99,6 @@ topic|descriptions|num
 [the largest element of a sequence](./control_flow_statements/TheLargestElementOfASequence/README.md)|the while and do-while loops|208
 [the sequence](./control_flow_statements/TheSequence/README.md)|the while and do-while loops|204
 [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)|the while and do-while loops|206
-[days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
-[meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
-[months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
-[floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
-[shape](./control_flow_statements/Shape/README.md)|switch statement|178
 <hr>
 
 #### strings
