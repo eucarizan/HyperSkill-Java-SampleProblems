@@ -1,12 +1,12 @@
 # Sample Problems
-- count (219)
+- count (220)
 
 ## Previously Solved (latest first)
-1. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
-2. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
-3. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
-4. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
-5. [grades](./control_flow_statements/Grades/README.md)
+1. [bus tour](./control_flow_statements/BusTour/README.md)
+2. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
+3. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
+4. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
+5. [the product of numbers from a to b](./control_flow_statements/ProductsFromAToB/README.md)
 
 ## Knowledge Map
 - basics
@@ -66,6 +66,7 @@ topic|descriptions|num
 #### control flow statements
 topic|descriptions|num
 :-:|:-:|:-:
+[bus tour](./control_flow_statements/BusTour/README.md)|branching statements|220
 [even or odd](./control_flow_statements/EvenOrOdd/README.md)|branching statements|219
 [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)|branching statements|217
 [the sequence](./control_flow_statements/TheSequenceDigits/README.md)|branching statements|218
