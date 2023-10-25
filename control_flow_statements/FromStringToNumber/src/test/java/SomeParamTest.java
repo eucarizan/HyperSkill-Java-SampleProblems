@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SuppressWarnings("unused")
 public class SomeParamTest {
 
-    @ParameterizedTest(name = "{0} -- method({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- numberToString({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "testWith1 : one : 1",

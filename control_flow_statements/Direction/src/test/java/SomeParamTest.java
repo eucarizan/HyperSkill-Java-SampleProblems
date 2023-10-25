@@ -7,16 +7,18 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SuppressWarnings("unused")
 public class SomeParamTest {
 
-    @ParameterizedTest(name = "{0} -- generateSequence({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- move({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
-            "test1 : 7 : 1 2 2 3 3 3 4",
-            "test2 : 1 : 1",
-            "test3 : 0 : ''",
-            "test4 : -5 : ''",
+            "testWith1 : 1 : move up",
+            "testWith2 : 2 : move down",
+            "testWith3 : 3 : move left",
+            "testWith4 : 4 : move right",
+            "testWith0 : 0 : do not move",
+            "testWith5 : 5 : error!",
     }, delimiter = ':')
     public void test(String name, int param, String expected) {
-        var result = Solution.generateSequence(param);
+        var result = Solution.move(param);
 
         assertEquals(expected, result);
     }

@@ -1,12 +1,12 @@
 # Sample Problems
-- count (222)
+- count (223)
 
 ## Previously Solved (latest first)
-1. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
-2. [test learners](./control_flow_statements/TestLearners/README.md)
-3. [bus tour](./control_flow_statements/BusTour/README.md)
-4. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
-5. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
+1. [direction](./control_flow_statements/Direction/README.md)
+2. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
+3. [test learners](./control_flow_statements/TestLearners/README.md)
+4. [bus tour](./control_flow_statements/BusTour/README.md)
+5. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
 
 ## Knowledge Map
 - basics
@@ -81,6 +81,7 @@ topic|descriptions|num
 [days of the week](./control_flow_statements/DaysOfTheWeek/README.md)|switch expression|144
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
+[direction](./control_flow_statements/Direction/README.md)|switch statement|223
 [floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)|switch statement|222
 [shape](./control_flow_statements/Shape/README.md)|switch statement|178

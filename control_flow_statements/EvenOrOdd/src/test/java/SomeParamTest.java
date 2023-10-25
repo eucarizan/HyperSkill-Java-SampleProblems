@@ -10,7 +10,7 @@ import java.util.Arrays;
 @SuppressWarnings("unused")
 public class SomeParamTest {
 
-    @ParameterizedTest(name = "{0} -- method({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- evenOrOdd({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "testWithSingleEven : 2 : [even]",
