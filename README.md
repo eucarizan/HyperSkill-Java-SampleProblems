@@ -1,12 +1,12 @@
 # Sample Problems
-- count (221)
+- count (222)
 
 ## Previously Solved (latest first)
-1. [test learners](./control_flow_statements/TestLearners/README.md)
-2. [bus tour](./control_flow_statements/BusTour/README.md)
-3. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
-4. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
-5. [the integer barrier](./control_flow_statements/TheIntegerBarrier/README.md)
+1. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
+2. [test learners](./control_flow_statements/TestLearners/README.md)
+3. [bus tour](./control_flow_statements/BusTour/README.md)
+4. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
+5. [the sequence](./control_flow_statements/TheSequenceDigits/README.md)
 
 ## Knowledge Map
 - basics
@@ -82,6 +82,7 @@ topic|descriptions|num
 [meteorological seasons](./control_flow_statements/MeteorologicalSeasons/README.md)|switch expression|143
 [months of the year](./control_flow_statements/MonthsOfTheYear/README.md)|switch expression|147
 [floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
+[fromt string to number](./control_flow_statements/FromStringToNumber/README.md)|switch statement|222
 [shape](./control_flow_statements/Shape/README.md)|switch statement|178
 [test learners](./control_flow_statements/TestLearners/README.md)|switch statement|221
 [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
