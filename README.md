@@ -1,12 +1,12 @@
 # Sample Problems
-- count (223)
+- count (224)
 
 ## Previously Solved (latest first)
-1. [direction](./control_flow_statements/Direction/README.md)
-2. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
-3. [test learners](./control_flow_statements/TestLearners/README.md)
-4. [bus tour](./control_flow_statements/BusTour/README.md)
-5. [even or odd](./control_flow_statements/EvenOrOdd/README.md)
+1. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
+2. [direction](./control_flow_statements/Direction/README.md)
+3. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
+4. [test learners](./control_flow_statements/TestLearners/README.md)
+5. [bus tour](./control_flow_statements/BusTour/README.md)
 
 ## Knowledge Map
 - basics
@@ -85,6 +85,7 @@ topic|descriptions|num
 [floor-space of the room](./control_flow_statements/FloorSpaceOfRoom/README.md)|switch statement|28
 [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)|switch statement|222
 [shape](./control_flow_statements/Shape/README.md)|switch statement|178
+[simple calculator](./control_flow_statements/SimpleCalculator/README.md)|switch statement|224
 [test learners](./control_flow_statements/TestLearners/README.md)|switch statement|221
 [arithmetic average](./control_flow_statements/ArithmeticAverage/README.md)|the for-loop|211
 [fizz buzz](./control_flow_statements/FizzBuzz/README.md)|the for-loop|212
