@@ -1,12 +1,12 @@
 # Sample Problems
-- count (228)
+- count (229)
 
 ## Previously Solved (latest first)
-1. [double characters](./strings/DoubleCharacters/README.md)
-2. [move the first n characters](./strings/MoveFirstNCharacters/README.md)
-3. [generating passwords](./strings/GeneratingPasswords/README.md)
-4. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
-5. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
+1. [cutting out the middle of a string](./strings/CutTheMiddle/README.md)
+2. [double characters](./strings/DoubleCharacters/README.md)
+3. [move the first n characters](./strings/MoveFirstNCharacters/README.md)
+4. [generating passwords](./strings/GeneratingPasswords/README.md)
+5. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
 
 ## Knowledge Map
 - basics
@@ -114,6 +114,7 @@ topic|descriptions|num
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
 [replace a with b](./strings/ReplaceAWithB/README.md)|string|152
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
+[cutting out the middle of a string](./strings/CutTheMiddle/README.md)|processing strings|229
 [double characters](./strings/DoubleCharacters/README.md)|processing strings|228
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
