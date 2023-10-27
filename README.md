@@ -1,12 +1,12 @@
 # Sample Problems
-- count (230)
+- count (231)
 
 ## Previously Solved (latest first)
-1. [convert a date](./strings/ConvertADate/README.md)
-2. [cutting out the middle of a string](./strings/CutTheMiddle/README.md)
-3. [double characters](./strings/DoubleCharacters/README.md)
-4. [move the first n characters](./strings/MoveFirstNCharacters/README.md)
-5. [generating passwords](./strings/GeneratingPasswords/README.md)
+1. [concat all strings without digits](./strings/ConcatAllWithoutDigits/README.md)
+2. [convert a date](./strings/ConvertADate/README.md)
+3. [cutting out the middle of a string](./strings/CutTheMiddle/README.md)
+4. [double characters](./strings/DoubleCharacters/README.md)
+5. [move the first n characters](./strings/MoveFirstNCharacters/README.md)
 
 ## Knowledge Map
 - basics
@@ -113,6 +113,7 @@ topic|descriptions|num
 [comparing strings ignoring whitespaces](./strings/CompareStringsIgnoreWhitespace/README.md)|string|153
 [extracting a substring](./strings/ExtractingSubstring/README.md)|string|140
 [replace a with b](./strings/ReplaceAWithB/README.md)|string|152
+[concat all strings without digits](./strings/ConcatAllWithoutDigits/README.md)|stringbuilder|231
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [convert a date](./strings/ConvertADate/README.md)|processing strings|230
 [cutting out the middle of a string](./strings/CutTheMiddle/README.md)|processing strings|229
