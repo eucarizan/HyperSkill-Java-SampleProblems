@@ -1,18 +1,18 @@
 # Sample Problems
-- count (225)
+- count (226)
 
 ## Previously Solved (latest first)
-1. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
-2. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
-3. [direction](./control_flow_statements/Direction/README.md)
-4. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
-5. [test learners](./control_flow_statements/TestLearners/README.md)
+1. [generating passwords](./strings/GeneratingPasswords/README.md)
+2. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
+3. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
+4. [direction](./control_flow_statements/Direction/README.md)
+5. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
 
 ## Knowledge Map
 - basics
   - [operation on primitive types](#operation-on-primitive-types)
   - [control flow statements](#control-flow-statements)
-  - [strings](#basics-strings)
+  - [strings](#strings)
 - code organization
   - [methods](#methods)
   - [object oriented programming](#object-oriented-programming)
@@ -117,6 +117,7 @@ topic|descriptions|num
 [euphonious word](./strings/EuphoniousWord/README.md)|processing strings|133
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
 [gc characters](./strings/GCCharacters/README.md)|processing strings|149
+[generating passwords](./strings/GeneratingPasswords/README.md)|processing strings|226
 [lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
 [longest word](./strings/LongestWord/README.md)|processing strings|134
 [number of occurrences](./strings/NumberOfOccurrences/README.md)|processing strings|142
