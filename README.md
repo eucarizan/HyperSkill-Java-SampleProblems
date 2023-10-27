@@ -1,12 +1,12 @@
 # Sample Problems
-- count (233)
+- count (234)
 
 ## Previously Solved (latest first)
-1. [create email](./strings/CreateEmail/README.md)
-2. [english alphabet](./strings/EnglishAlphabet/README.md)
-3. [concat all strings without digits](./strings/ConcatAllWithoutDigits/README.md)
-4. [convert a date](./strings/ConvertADate/README.md)
-5. [cutting out the middle of a string](./strings/CutTheMiddle/README.md)
+1. [love of big letters](./strings/LoveBigLetters/README.md)
+2. [create email](./strings/CreateEmail/README.md)
+3. [english alphabet](./strings/EnglishAlphabet/README.md)
+4. [concat all strings without digits](./strings/ConcatAllWithoutDigits/README.md)
+5. [convert a date](./strings/ConvertADate/README.md)
 
 ## Knowledge Map
 - basics
@@ -116,6 +116,7 @@ topic|descriptions|num
 [concat all strings without digits](./strings/ConcatAllWithoutDigits/README.md)|stringbuilder|231
 [create email](./strings/CreateEmail/README.md)|stringbuilder|233
 [english alphabet](./strings/EnglishAlphabet/README.md)|stringbuilder|232
+[love of big letters](./strings/LoveBigLetters/README.md)|stringbuilder|234
 [compression algorithm](./strings/CompressionAlgorithm/README.md)|processing strings|33
 [convert a date](./strings/ConvertADate/README.md)|processing strings|230
 [cutting out the middle of a string](./strings/CutTheMiddle/README.md)|processing strings|229
