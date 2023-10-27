@@ -1,12 +1,12 @@
 # Sample Problems
-- count (226)
+- count (227)
 
 ## Previously Solved (latest first)
-1. [generating passwords](./strings/GeneratingPasswords/README.md)
-2. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
-3. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
-4. [direction](./control_flow_statements/Direction/README.md)
-5. [fromt string to number](./control_flow_statements/FromStringToNumber/README.md)
+1. [move the first n characters](./strings/MoveFirstNCharacters/README.md)
+2. [generating passwords](./strings/GeneratingPasswords/README.md)
+3. [harry potter houses](./control_flow_statements/HarryPotter/README.md)
+4. [simple calculator](./control_flow_statements/SimpleCalculator/README.md)
+5. [direction](./control_flow_statements/Direction/README.md)
 
 ## Knowledge Map
 - basics
@@ -118,8 +118,9 @@ topic|descriptions|num
 [first occurrence of the word the](./strings/FirstOccurenceOfWordThe/README.md)|processing strings|139
 [gc characters](./strings/GCCharacters/README.md)|processing strings|149
 [generating passwords](./strings/GeneratingPasswords/README.md)|processing strings|226
-[lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
 [longest word](./strings/LongestWord/README.md)|processing strings|134
+[lucky ticket](./strings/LuckyTicket/README.md)|processing strings|37
+[move the first n characters](./strings/MoveFirstNCharacters/README.md)|processing strings|227
 [number of occurrences](./strings/NumberOfOccurrences/README.md)|processing strings|142
 [palindrome](./strings/Palindrome/README.md)|processing strings|135
 [parse url](./strings/ParseUrl/README.md)|processing strings|126
