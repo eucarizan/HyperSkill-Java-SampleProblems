@@ -1,12 +1,12 @@
 # Sample Problems
-- count (238)
+- count (239)
 
 ## Previously Solved (latest first)
-1. [sorting numbers](./methods/SortingNumbers/README.md)
-2. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
-3. [string to double](./errorless_code/StringToDouble/README.md)
-4. [bank account](./oop/BankAccount/README.md)
-5. [love of big letters](./strings/LoveBigLetters/README.md)
+1. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
+2. [sorting numbers](./methods/SortingNumbers/README.md)
+3. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
+4. [string to double](./errorless_code/StringToDouble/README.md)
+5. [bank account](./oop/BankAccount/README.md)
 
 ## Knowledge Map
 - basics
@@ -137,6 +137,7 @@ topic|descriptions|num
 #### methods
 topic|descriptions|num
 :-:|:-:|:-:
+[inverse boolean flags](./methods/InverseBooleanFlags/README.md)|arrays as parameters|239
 [sorting numbers](./methods/SortingNumbers/README.md)|arrays as parameters|238
 [parallelogram area](./methods/ParallelogramArea/README.md)|calling a method|141
 [composite number](./methods/CompositeNumber/README.md)|declaring a method|5
