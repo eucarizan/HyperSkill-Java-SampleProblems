@@ -1,12 +1,12 @@
 # Sample Problems
-- count (237)
+- count (238)
 
 ## Previously Solved (latest first)
-1. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
-2. [string to double](./errorless_code/StringToDouble/README.md)
-3. [bank account](./oop/BankAccount/README.md)
-4. [love of big letters](./strings/LoveBigLetters/README.md)
-5. [create email](./strings/CreateEmail/README.md)
+1. [sorting numbers](./methods/SortingNumbers/README.md)
+2. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
+3. [string to double](./errorless_code/StringToDouble/README.md)
+4. [bank account](./oop/BankAccount/README.md)
+5. [love of big letters](./strings/LoveBigLetters/README.md)
 
 ## Knowledge Map
 - basics
@@ -137,9 +137,10 @@ topic|descriptions|num
 #### methods
 topic|descriptions|num
 :-:|:-:|:-:
-[parallelogram area](./methods/ParallelogramArea/README.md)|methods, calling a method|141
-[composite number](./methods/CompositeNumber/README.md)|methods, declaring a method|5
-[number sign](./methods/NumberSign/README.md)|methods, declaring a method|6
+[sorting numbers](./methods/SortingNumbers/README.md)|arrays as parameters|238
+[parallelogram area](./methods/ParallelogramArea/README.md)|calling a method|141
+[composite number](./methods/CompositeNumber/README.md)|declaring a method|5
+[number sign](./methods/NumberSign/README.md)|declaring a method|6
 <hr>
 
 #### object oriented programming
