@@ -1,12 +1,12 @@
 # Sample Problems
-- count (236)
+- count (237)
 
 ## Previously Solved (latest first)
-1. [string to double](./errorless_code/StringToDouble/README.md)
-2. [bank account](./oop/BankAccount/README.md)
-3. [love of big letters](./strings/LoveBigLetters/README.md)
-4. [create email](./strings/CreateEmail/README.md)
-5. [english alphabet](./strings/EnglishAlphabet/README.md)
+1. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
+2. [string to double](./errorless_code/StringToDouble/README.md)
+3. [bank account](./oop/BankAccount/README.md)
+4. [love of big letters](./strings/LoveBigLetters/README.md)
+5. [create email](./strings/CreateEmail/README.md)
 
 ## Knowledge Map
 - basics
@@ -298,6 +298,7 @@ topic|descriptions|num
 [bitwise and integers](./errorless_code/BitwiseAndIntegers/README.md)|debugging|64
 [cycles and iterations](./errorless_code/CyclesAndIterations/README.md)|debugging|78
 [divisors finding](./errorless_code/DivisorsFinding/README.md)|debugging|62
+[converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)|exception handling|237
 [string to double](./errorless_code/StringToDouble/README.md)|exception handling|236
 [avoid npe string](./errorless_code/AvoidNPEStrings/README.md)|exception handling, npe|130
 [logging to debug](./errorless_code/LoggingToDebug/README.md)|logback|115
