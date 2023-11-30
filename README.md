@@ -1,12 +1,12 @@
 # Sample Problems
-- count (241)
+- count (242)
 
 ## Previously Solved (latest first)
-1. [find the greatest number in file](./files/FindGreatestNum/README.md)
-2. [adding values](./methods/AddingValues/README.md)
-3. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
-4. [sorting numbers](./methods/SortingNumbers/README.md)
-5. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
+1. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
+2. [find the greatest number in file](./files/FindGreatestNum/README.md)
+3. [adding values](./methods/AddingValues/README.md)
+4. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
+5. [sorting numbers](./methods/SortingNumbers/README.md)
 
 ## Knowledge Map
 - basics
@@ -274,6 +274,7 @@ topic|descriptions|num
 topic|descriptions|num
 :-:|:-:|:-:
 [find the greatest number in file](./files/FindGreatestNum/README.md)|reading files|241
+[count numbers in a file](./files/CountNumbersGreaterThan/README.md)|reading files|242
 <hr>
 
 #### collections
