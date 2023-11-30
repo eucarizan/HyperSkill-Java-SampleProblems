@@ -1,12 +1,12 @@
 # Sample Problems
-- count (244)
+- count (245)
 
 ## Previously Solved (latest first)
-1. [count even numbers in a file](./files/CountEvenNumbers/README.md)
-2. [sum of numbers in a file](./files/SumOfNumbers/README.md)
-3. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
-4. [find the greatest number in file](./files/FindGreatestNum/README.md)
-5. [adding values](./methods/AddingValues/README.md)
+1. [get year most increase population](./files/WorldPopulation/README.md)
+2. [count even numbers in a file](./files/CountEvenNumbers/README.md)
+3. [sum of numbers in a file](./files/SumOfNumbers/README.md)
+4. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
+5. [find the greatest number in file](./files/FindGreatestNum/README.md)
 
 ## Knowledge Map
 - basics
@@ -277,6 +277,7 @@ topic|descriptions|num
 [count numbers in a file](./files/CountNumbersGreaterThan/README.md)|reading files|242
 [sum of numbers in a file](./files/SumOfNumbers/README.md)|reading files|243
 [count even numbers in a file](./files/CountEvenNumbers/README.md)|reading files|244
+[get year most increase population](./files/WorldPopulation/README.md)|reading files|245
 <hr>
 
 #### collections
