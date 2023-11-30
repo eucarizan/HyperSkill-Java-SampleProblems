@@ -1,12 +1,12 @@
 # Sample Problems
-- count (240)
+- count (241)
 
 ## Previously Solved (latest first)
-1. [adding values](./methods/AddingValues/README.md)
-2. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
-3. [sorting numbers](./methods/SortingNumbers/README.md)
-4. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
-5. [string to double](./errorless_code/StringToDouble/README.md)
+1. [find the greatest number in file](./files/FindGreatestNum/README.md)
+2. [adding values](./methods/AddingValues/README.md)
+3. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
+4. [sorting numbers](./methods/SortingNumbers/README.md)
+5. [converting and multiplying](./errorless_code/ConvertingMultiplying/README.md)
 
 ## Knowledge Map
 - basics
@@ -24,6 +24,7 @@
   - [design patterns](#design-patterns)
 - working with data
   - [arrays](#arrays)
+  - [file processing](#file-processing)
   - [collections](#collections)
 - [errorless code](#errorless-code)
 - java internals
@@ -267,6 +268,12 @@ topic|descriptions|num
 [maximum product of adjacent elements](./arrays/MaximumProductOfAdjacentElements/README.md)|iterating over arrays|112
 [sum array elements greater than value](./arrays/SumArrayElementsGreaterThanValue/README.md)|iterating over arrays|129
 [triples](./arrays/Triples/README.md)|iterating over arrays|45
+<hr>
+
+#### file processing
+topic|descriptions|num
+:-:|:-:|:-:
+[find the greatest number in file](./files/FindGreatestNum/README.md)|reading files|241
 <hr>
 
 #### collections
