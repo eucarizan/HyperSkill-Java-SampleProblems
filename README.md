@@ -1,12 +1,12 @@
 # Sample Problems
-- count (243)
+- count (244)
 
 ## Previously Solved (latest first)
-1. [sum of numbers in a file](./files/SumOfNumbers/README.md)
-2. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
-3. [find the greatest number in file](./files/FindGreatestNum/README.md)
-4. [adding values](./methods/AddingValues/README.md)
-5. [inverse boolean flags](./methods/InverseBooleanFlags/README.md)
+1. [count even numbers in a file](./files/CountEvenNumbers/README.md)
+2. [sum of numbers in a file](./files/SumOfNumbers/README.md)
+3. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
+4. [find the greatest number in file](./files/FindGreatestNum/README.md)
+5. [adding values](./methods/AddingValues/README.md)
 
 ## Knowledge Map
 - basics
@@ -276,6 +276,7 @@ topic|descriptions|num
 [find the greatest number in file](./files/FindGreatestNum/README.md)|reading files|241
 [count numbers in a file](./files/CountNumbersGreaterThan/README.md)|reading files|242
 [sum of numbers in a file](./files/SumOfNumbers/README.md)|reading files|243
+[count even numbers in a file](./files/CountEvenNumbers/README.md)|reading files|244
 <hr>
 
 #### collections
