@@ -2,11 +2,11 @@
 - count (245)
 
 ## Previously Solved (latest first)
-1. [get year most increase population](./files/WorldPopulation/README.md)
-2. [count even numbers in a file](./files/CountEvenNumbers/README.md)
-3. [sum of numbers in a file](./files/SumOfNumbers/README.md)
-4. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
-5. [find the greatest number in file](./files/FindGreatestNum/README.md)
+1. [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)
+2. [get year most increase population](./files/WorldPopulation/README.md)
+3. [count even numbers in a file](./files/CountEvenNumbers/README.md)
+4. [sum of numbers in a file](./files/SumOfNumbers/README.md)
+5. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
 
 ## Knowledge Map
 - basics
@@ -63,6 +63,9 @@ topic|descriptions|num
 [groundhogs at a party](./operation-on-primitive-types/GroundHogsParty/README.md)|relational operators|170
 [is between](./operation-on-primitive-types/IsBetween/README.md)|relational operators|168
 <hr>
+<!--
+[](./operation-on-primitive-types//README.md)||
+-->
 
 #### control flow statements
 topic|descriptions|num
@@ -105,6 +108,9 @@ topic|descriptions|num
 [the sequence](./control_flow_statements/TheSequence/README.md)|the while and do-while loops|204
 [the sum of elements](./control_flow_statements/TheSumOfElements/README.md)|the while and do-while loops|206
 <hr>
+<!--
+[](./control_flow_statements//README.md)||
+-->
 
 #### strings
 topic|descriptions|num
@@ -134,6 +140,9 @@ topic|descriptions|num
 [parse url](./strings/ParseUrl/README.md)|processing strings|126
 [piece of alphabet](./strings/PieceOfAlphabet/README.md)|processing strings|136
 <hr>
+<!--
+[](./strings//README.md)||
+-->
 
 #### methods
 topic|descriptions|num
@@ -145,6 +154,9 @@ topic|descriptions|num
 [composite number](./methods/CompositeNumber/README.md)|declaring a method|5
 [number sign](./methods/NumberSign/README.md)|declaring a method|6
 <hr>
+<!--
+[](./methods//README.md)||
+-->
 
 #### object oriented programming
 topic|descriptions|num
@@ -164,12 +176,18 @@ topic|descriptions|num
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 [bank account](./oop/BankAccount/README.md)|the keyword super|235
 <hr>
+<!--
+[](./oop//README.md)||
+-->
 
 #### generic programming
 topic|descriptions|num
 :-:|:-:|:-:
 [correct the program](./generic-programming/CorrectTheProgram/README.md)|generic essentials, introduction to generic programming|174
 <hr>
+<!--
+[](./generic-programming//README.md)||
+-->
 
 #### class hierarchies, interfaces and abstract classes
 topic|descriptions|num
@@ -180,6 +198,9 @@ topic|descriptions|num
 [leaderboard](./interfaces_and_abstract_classes/Leaderboard/README.md)|oop, interfaces and abstract classes, comparable|51
 [mutable geometric shapes](./interfaces_and_abstract_classes/MutableGeometricShapes/README.md)|oop, interfaces and abstract classes, interface|17
 <hr>
+<!--
+[](./interfaces_and_abstract_classes//README.md)||
+-->
 
 #### functions
 topic|descriptions|num
@@ -197,6 +218,9 @@ topic|descriptions|num
 [sum up optional value](./functions/SumUpOptionalValues/README.md)|optional|198
 [the address book](./functions/TheAddressBook/README.md)|optional|107
 <hr>
+<!--
+[](./functions//README.md)||
+-->
 
 #### functional streams
 topic|descriptions|num
@@ -239,6 +263,9 @@ topic|descriptions|num
 [total sum of cancelled transactions](./functional_streams/TotalSumCancelledTransactions/README.md)|stream pipelines|110
 [using streams many times](./functional_streams/UsingStreamsManyTimes/README.md)|stream pipelines|117
 <hr>
+<!--
+[](./functional_streams//README.md)||
+-->
 
 #### design patterns
 topic|descriptions|num
@@ -259,6 +286,9 @@ topic|descriptions|num
 [list based implementation](./design_patterns/ListBasedImpl/README.md)|data access object for jdbc|199
 [map based implementation](./design_patterns/MapBasedImpl/README.md)|data access object for jdbc|200
 <hr>
+<!--
+[](./design_patterns//README.md)||
+-->
 
 #### arrays
 topic|descriptions|num
@@ -269,6 +299,9 @@ topic|descriptions|num
 [sum array elements greater than value](./arrays/SumArrayElementsGreaterThanValue/README.md)|iterating over arrays|129
 [triples](./arrays/Triples/README.md)|iterating over arrays|45
 <hr>
+<!--
+[](./arrays//README.md)||
+-->
 
 #### file processing
 topic|descriptions|num
@@ -279,6 +312,9 @@ topic|descriptions|num
 [count even numbers in a file](./files/CountEvenNumbers/README.md)|reading files|244
 [get year most increase population](./files/WorldPopulation/README.md)|reading files|245
 <hr>
+<!--
+[](./files//README.md)||
+-->
 
 #### collections
 topic|descriptions|num
@@ -304,6 +340,9 @@ topic|descriptions|num
 [tricky submaps](./collections/TrickySubMaps/README.md)|the map interface|113
 [value or min](./collections/ValueOrMin/README.md)|the map interface|188
 <hr>
+<!--
+[](./collections//README.md)||
+-->
 
 #### errorless code
 topic|descriptions|num
@@ -320,6 +359,9 @@ topic|descriptions|num
 [return empty string](./errorless_code/ReturnEmptyString/README.md)|npe|111
 [test password](./errorless_code/TestPassword/README.md)|testing tools and libraries, parameterized test|50
 <hr>
+<!--
+[](./errorless_code//README.md)||
+-->
 
 #### reflection
 topic|descriptions|num
@@ -327,6 +369,9 @@ topic|descriptions|num
 [declared fields](./reflection/DeclaredFields/README.md)|reflection basics|145
 [field count](./reflection/FieldCount/README.md)|reflection basics|146
 <hr>
+<!--
+[](./reflection//README.md)||
+-->
 
 #### date and time
 topic|descriptions|num
@@ -341,7 +386,11 @@ topic|descriptions|num
 [subtracting hours adding minutes](./date_and_time/SubtractingHours/README.md)|localdatetime|128
 [count date time range match](./date_and_time/CountDateTimeRangeMatch/README.md)|comparing dates and times|92
 [dont be late again](./date_and_time/DontBeLateAgain/README.md)|comparing dates and time|15
+[the difference between period units](./date_and_time/PeriodUnitDifference/README.md)|period and duration classes|246
 <hr>
+<!--
+[](./date_and_time//README.md)||
+-->
 
 #### standard classes for computation
 topic|descriptions|num
@@ -351,12 +400,18 @@ topic|descriptions|num
 [multiplication](./standard_classes_for_computation/Multiplication/README.md)|big decimal|40
 [find the seed](./standard_classes_for_computation/FindTheSeed/README.md)|random|14
 <hr>
+<!--
+[](./standard_classes_for_computation//README.md)||
+-->
 
 #### jdbc
 topic|descriptions|num
 :-:|:-:|:-:
 [dinosaurs and plants](./jdbc/DinosaursAndPlants/README.md)|jdbc, jdbc transactions|65
 <hr>
+<!--
+[](./jdbc//README.md)||
+-->
 
 #### regular expressions
 topic|descriptions|num
@@ -377,6 +432,9 @@ topic|descriptions|num
 [illegal identifiers](./regular_expressions/IllegalIdentifiers/README.md)|regexes in programs|194
 [vehicle registration number](./regular_expressions/VehicleRegistrationNumber/README.md)|regexes in programs|154
 <hr>
+<!--
+[](./regular_expressions//README.md)||
+-->
 
 #### search algorithms
 topic|descriptions|num
@@ -385,6 +443,9 @@ topic|descriptions|num
 [binary search count number of loops](./search_algorithms/BinarySearchCountNumberOfLoops/README.md)|algorithms, array algorithms, search algorithms|123
 [sort and search](./search_algorithms/SortAndSearch/README.md)|algorithms, array algorithms, search algorithms|61
 <hr>
+<!--
+[](./search_algorithms//README.md)||
+-->
 
 
 <!--
