@@ -1,0 +1,27 @@
+# Title
+## Description
+
+
+<!--find and replace
+(Sample Input \d:|Sample Output \d:)\n
+```\n\n**$1**\n```console
+-->
+## Examples
+
+Sample Input 1:
+
+1991-04-15T17:30:00Z
+1995-05-23T17:30:00Z
+2011-07-22T17:30:00Z
+2022-07-04T18:30:00Z
+
+Sample Output 1:
+
+985222800
+
+## Tags
+- tags
+
+## Code
+- [solution class](./src/main/java/dev/nj/solutions/Solution.java)
+- [unit tests](./src/test/java/SomeParamTest.java)
