@@ -1,2 +1,8 @@
 #!/usr/bin/env bash
-sed -ir 's_\(Sample.*:\)\r_```\n\n**\1**\n```console_' $1
+# sed -ir 's_\(Sample.*:\)\r_```\n\n**\1**\n```console_' README.md
+# rm *.mdr
+PATH_MAIN="src/main/java/dev/nj/solutions/"
+PATH_TEST="src/test/java/"
+mv ${PATH_MAIN}Solution.java ${PATH_MAIN}$1.java
+mv ${PATH_TEST}SolutionTest.java ${PATH_TEST}$1Test.java
+sed -i "s/Solution/$1/" ${PATH_MAIN}$1.java ${PATH_TEST}$1Test.java README.md
