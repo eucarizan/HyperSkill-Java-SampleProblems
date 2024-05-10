@@ -1,12 +1,12 @@
 # Sample Problems
-- count (250)
+- count (251)
 
 ## Previously Solved (latest first)
-1. [student class with getters and constructor](./oop/StudentInfo/README.md)
-2. [instant to long](./date_and_time/InstantToLong/README.md)
-3. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
-4. [print the correct instant unit](./date_and_time/EpochTimezoneSubtractor/README.md)
-5. [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)
+1. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
+2. [student class with getters and constructor](./oop/StudentInfo/README.md)
+3. [instant to long](./date_and_time/InstantToLong/README.md)
+4. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
+5. [print the correct instant unit](./date_and_time/EpochTimezoneSubtractor/README.md)
 
 ## Knowledge Map
 - basics
@@ -161,6 +161,7 @@ topic|descriptions|num
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
+[managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
 [student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
 [clock simulation](./oop/ClockSimulation/README.md)|instance methods|8
 [movie](./oop/Movie/README.md)|multiple constructors|116
