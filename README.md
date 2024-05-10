@@ -1,12 +1,12 @@
 # Sample Problems
-- count (245)
+- count (250)
 
 ## Previously Solved (latest first)
-1. [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)
-2. [get year most increase population](./files/WorldPopulation/README.md)
-3. [count even numbers in a file](./files/CountEvenNumbers/README.md)
-4. [sum of numbers in a file](./files/SumOfNumbers/README.md)
-5. [count numbers in a file](./files/CountNumbersGreaterThan/README.md)
+1. [student class with getters and constructor](./oop/StudentInfo/README.md)
+2. [instant to long](./date_and_time/InstantToLong/README.md)
+3. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
+4. [print the correct instant unit](./date_and_time/EpochTimezoneSubtractor/README.md)
+5. [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)
 
 ## Knowledge Map
 - basics
@@ -161,6 +161,7 @@ topic|descriptions|num
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
+[student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
 [clock simulation](./oop/ClockSimulation/README.md)|instance methods|8
 [movie](./oop/Movie/README.md)|multiple constructors|116
 [capture variables](./oop/CaptureVariables/README.md)|nested classes, anonymous classes|131
@@ -376,6 +377,11 @@ topic|descriptions|num
 #### date and time
 topic|descriptions|num
 :-:|:-:|:-:
+[count date time range match](./date_and_time/CountDateTimeRangeMatch/README.md)|comparing dates and times|92
+[dont be late again](./date_and_time/DontBeLateAgain/README.md)|comparing dates and time|15
+[instant to long](./date_and_time/InstantToLong/README.md)|instant|247
+[min and max instant units](./date_and_time/GetMaxMinusMin/README.md)|instant|248
+[print the correct instant unit](./date_and_time/EpochTimezoneSubtractor/README.md)|instant|249
 [find all mondays](./date_and_time/FindAllMondays/README.md)|localdate|165
 [last day of month](./date_and_time/LastDayOfMonth/README.md)|localdate|16
 [first and last day of month](./date_and_time/FirstAndLastDayOfMonth/README.md)|localdate|127
@@ -384,8 +390,6 @@ topic|descriptions|num
 [same time](./date_and_time/SameTime/README.md)|localtime|13
 [merge datetime](./date_and_time/MergeDateTime/README.md)|localdatetime|138
 [subtracting hours adding minutes](./date_and_time/SubtractingHours/README.md)|localdatetime|128
-[count date time range match](./date_and_time/CountDateTimeRangeMatch/README.md)|comparing dates and times|92
-[dont be late again](./date_and_time/DontBeLateAgain/README.md)|comparing dates and time|15
 [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)|period and duration classes|246
 <hr>
 <!--

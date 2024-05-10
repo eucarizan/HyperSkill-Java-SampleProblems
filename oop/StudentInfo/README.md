@@ -1,0 +1,27 @@
+# Student class with getters and constructor
+## Description
+Create a class called Person with private instance variables for name and age, and a constructor that initializes these variables. Also create public getter methods for name and age. Then create a subclass called Student that inherits from Person and has an additional private instance variable for studentID and a constructor that initializes all three variables. Create a public getter method for studentID as well. Create an instance of the Student class and print out the name, age, and studentID using the getter methods.
+
+## Examples
+```console
+John
+20
+12345
+```
+
+**Sample Output 1:**
+```console
+Name: John
+Age: 20
+Student ID: 12345
+```
+
+## Tags
+- access modifiers
+- access control
+- classes and objects
+- oop
+
+## Code
+- [solution class](./src/main/java/dev/nj/solutions/StudentInfo.java)
+- [unit tests](./src/test/java/StudentInfoTest.java)
