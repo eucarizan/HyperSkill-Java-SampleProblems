@@ -1,12 +1,12 @@
 # Sample Problems
-- count (251)
+- count (252)
 
 ## Previously Solved (latest first)
-1. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
-2. [student class with getters and constructor](./oop/StudentInfo/README.md)
-3. [instant to long](./date_and_time/InstantToLong/README.md)
-4. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
-5. [print the correct instant unit](./date_and_time/EpochTimezoneSubtractor/README.md)
+1. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
+2. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
+3. [student class with getters and constructor](./oop/StudentInfo/README.md)
+4. [instant to long](./date_and_time/InstantToLong/README.md)
+5. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
 
 ## Knowledge Map
 - basics
@@ -321,16 +321,17 @@ topic|descriptions|num
 #### collections
 topic|descriptions|num
 :-:|:-:|:-:
-[backward indexes](./collections/BackwardIndexes/README.md)|list|29
-[count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
 [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)|arraylist|183
 [find the nearest number](./collections/FindNearestNumber/README.md)|arraylist|46
+[sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)|collections framework overview|252
 [messages comparator](./collections/MessagesComparator/README.md)|comparator|67
 [most valuable items](./collections/MostValuableItems/README.md)|comparator|69
 [multiple fields](./collections/MultipleFields/README.md)|comparator|72
 [odd and even](./collections/OddAndEven/README.md)|comparator|70
 [reverse sorting](./collections/ReverseSorting/README.md)|comparator|71
 [sort users](./collections/SortUsers/README.md)|comparator|68
+[backward indexes](./collections/BackwardIndexes/README.md)|list|29
+[count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
 [counting words](./collections/CountingWords/README.md)|the map interface|60
 [creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
 [diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
