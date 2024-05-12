@@ -1,12 +1,12 @@
 # Sample Problems
-- count (252)
+- count (253)
 
 ## Previously Solved (latest first)
-1. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
-2. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
-3. [student class with getters and constructor](./oop/StudentInfo/README.md)
-4. [instant to long](./date_and_time/InstantToLong/README.md)
-5. [min and max instant units](./date_and_time/GetMaxMinusMin/README.md)
+1. [creating instances](./oop/BigIntegerConverter)
+2. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
+3. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
+4. [student class with getters and constructor](./oop/StudentInfo/README.md)
+5. [instant to long](./date_and_time/InstantToLong/README.md)
 
 ## Knowledge Map
 - basics
@@ -161,6 +161,7 @@ topic|descriptions|num
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
+[creating instances](./oop/BigIntegerConverter)|grouping classes with packages, classes and members, classes and objects|253
 [managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
 [student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
 [clock simulation](./oop/ClockSimulation/README.md)|instance methods|8
