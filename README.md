@@ -2,11 +2,11 @@
 - count (256)
 
 ## Previously Solved (latest first)
-1. [sorting arrays](./oop/StringArraySort/README.md)
-2. [binary search](./oop/BinarySearch/README.md)
-3. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
-4. [creating instances](./oop/BigIntegerConverter)
-5. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
+1. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
+2. [sorting arrays](./oop/StringArraySort/README.md)
+3. [binary search](./oop/BinarySearch/README.md)
+4. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
+5. [creating instances](./oop/BigIntegerConverter)
 
 ## Knowledge Map
 - basics
@@ -179,6 +179,7 @@ topic|descriptions|num
 [saying animals](./oop/SayingAnimals/README.md)|overriding methods, hiding and overriding|191
 [shapes area](./oop/ShapesArea/README.md)|overriding methods, hiding and overriding|192
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
+[implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)|referencing subclass objects, class hierarchies|257
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 [bank account](./oop/BankAccount/README.md)|the keyword super|235
 <hr>
