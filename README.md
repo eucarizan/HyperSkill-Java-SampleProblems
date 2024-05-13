@@ -1,12 +1,12 @@
 # Sample Problems
-- count (255)
+- count (256)
 
 ## Previously Solved (latest first)
-1. [binary search](./oop/BinarySearch/README.md)
-2. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
-3. [creating instances](./oop/BigIntegerConverter)
-4. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
-5. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
+1. [sorting arrays](./oop/StringArraySort/README.md)
+2. [binary search](./oop/BinarySearch/README.md)
+3. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
+4. [creating instances](./oop/BigIntegerConverter)
+5. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
 
 ## Knowledge Map
 - basics
@@ -161,11 +161,12 @@ topic|descriptions|num
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
+[managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
+[student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
 [binary search](./oop/BinarySearch/README.md)|grouping classes with packages, classes and members, classes and objects|255
 [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)|grouping classes with packages, classes and members, classes and objects|254
 [creating instances](./oop/BigIntegerConverter/README.md)|grouping classes with packages, classes and members, classes and objects|253
-[managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
-[student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
+[sorting arrays](./oop/StringArraySort/README.md)|grouping classes with packages, classes and members, classes and objects|256
 [clock simulation](./oop/ClockSimulation/README.md)|instance methods|8
 [movie](./oop/Movie/README.md)|multiple constructors|116
 [capture variables](./oop/CaptureVariables/README.md)|nested classes, anonymous classes|131
