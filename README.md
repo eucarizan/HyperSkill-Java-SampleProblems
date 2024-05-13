@@ -1,12 +1,12 @@
 # Sample Problems
-- count (254)
+- count (255)
 
 ## Previously Solved (latest first)
-1. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
-2. [creating instances](./oop/BigIntegerConverter)
-3. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
-4. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
-5. [student class with getters and constructor](./oop/StudentInfo/README.md)
+1. [binary search](./oop/BinarySearch/README.md)
+2. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
+3. [creating instances](./oop/BigIntegerConverter)
+4. [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)
+5. [managing speed in a car class](./oop/ManageCarSpeed/README.md)
 
 ## Knowledge Map
 - basics
@@ -161,6 +161,7 @@ topic|descriptions|num
 #### object oriented programming
 topic|descriptions|num
 :-:|:-:|:-:
+[binary search](./oop/BinarySearch/README.md)|grouping classes with packages, classes and members, classes and objects|255
 [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)|grouping classes with packages, classes and members, classes and objects|254
 [creating instances](./oop/BigIntegerConverter/README.md)|grouping classes with packages, classes and members, classes and objects|253
 [managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
