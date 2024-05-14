@@ -180,6 +180,7 @@ topic|descriptions|num
 [shapes area](./oop/ShapesArea/README.md)|overriding methods, hiding and overriding|192
 [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)|overriding methods, polymorphism|260
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
+[determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)|polymorphism|260
 [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)|referencing subclass objects, class hierarchies|257
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 [bank account](./oop/BankAccount/README.md)|the keyword super|235
