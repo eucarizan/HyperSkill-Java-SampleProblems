@@ -1,12 +1,12 @@
 # Sample Problems
-- count (256)
+- count (257)
 
 ## Previously Solved (latest first)
-1. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
-2. [sorting arrays](./oop/StringArraySort/README.md)
-3. [binary search](./oop/BinarySearch/README.md)
-4. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
-5. [creating instances](./oop/BigIntegerConverter)
+1. [count and display element frequencies](./collections/CountFrequencies/README.md)
+2. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
+3. [sorting arrays](./oop/StringArraySort/README.md)
+4. [binary search](./oop/BinarySearch/README.md)
+5. [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)
 
 ## Knowledge Map
 - basics
@@ -328,6 +328,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)|arraylist|183
 [find the nearest number](./collections/FindNearestNumber/README.md)|arraylist|46
+[count and display element frequencies](./collections/CountFrequencies/README.md)|collections framework overview|257
 [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)|collections framework overview|252
 [messages comparator](./collections/MessagesComparator/README.md)|comparator|67
 [most valuable items](./collections/MostValuableItems/README.md)|comparator|69
