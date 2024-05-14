@@ -1,12 +1,12 @@
 # Sample Problems
-- count (259)
+- count (260)
 
 ## Previously Solved (latest first)
-1. [blacklist](./collections/Blaclist/README.md)
-2. [squaring numbers](./collections/SquaringNumbers/README.md)
-3. [count and display element frequencies](./collections/CountFrequencies/README.md)
-4. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
-5. [sorting arrays](./oop/StringArraySort/README.md)
+1. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
+2. [blacklist](./collections/Blaclist/README.md)
+3. [squaring numbers](./collections/SquaringNumbers/README.md)
+4. [count and display element frequencies](./collections/CountFrequencies/README.md)
+5. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
 
 ## Knowledge Map
 - basics
@@ -179,6 +179,7 @@ topic|descriptions|num
 [saying animals](./oop/SayingAnimals/README.md)|overriding methods, hiding and overriding|191
 [shapes area](./oop/ShapesArea/README.md)|overriding methods, hiding and overriding|192
 [publication subclasses](./oop/PublicationSubclasses/README.md)|overriding methods, polymorphism|10
+[determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)|polymorphism|260
 [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)|referencing subclass objects, class hierarchies|257
 [detail manufacturing](./oop/DetailManufacturing/README.md)|static members|114
 [bank account](./oop/BankAccount/README.md)|the keyword super|235
