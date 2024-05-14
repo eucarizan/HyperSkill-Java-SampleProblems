@@ -1,12 +1,12 @@
 # Sample Problems
-- count (258)
+- count (259)
 
 ## Previously Solved (latest first)
-1. [squaring numbers](./collections/SquaringNumbers/README.md)
-2. [count and display element frequencies](./collections/CountFrequencies/README.md)
-3. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
-4. [sorting arrays](./oop/StringArraySort/README.md)
-5. [binary search](./oop/BinarySearch/README.md)
+1. [blacklist](./collections/Blaclist/README.md)
+2. [squaring numbers](./collections/SquaringNumbers/README.md)
+3. [count and display element frequencies](./collections/CountFrequencies/README.md)
+4. [implementing vehicle hierarchy with wheels](./oop/VehicleHierarchy/README.md)
+5. [sorting arrays](./oop/StringArraySort/README.md)
 
 ## Knowledge Map
 - basics
@@ -328,6 +328,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [concat positive numbers](./collections/ConcatPositiveNumbers/README.md)|arraylist|183
 [find the nearest number](./collections/FindNearestNumber/README.md)|arraylist|46
+[blacklist](./collections/Blaclist/README.md)|collections framework overview|259
 [count and display element frequencies](./collections/CountFrequencies/README.md)|collections framework overview|257
 [sorting the digits of an integer in ascending order](./collections/DigitSort/README.md)|collections framework overview|252
 [squaring numbers](./collections/SquaringNumbers/README.md)|collections framework overview|258
