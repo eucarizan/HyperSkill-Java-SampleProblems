@@ -1,12 +1,12 @@
 # Sample Problems
-- count (262)
+- count (263)
 
 ## Previously Solved (latest first)
-1. [area of a circle](./oop/CircleArea/README.md)
-2. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
-3. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
-4. [blacklist](./collections/Blaclist/README.md)
-5. [squaring numbers](./collections/SquaringNumbers/README.md)
+1. [string reverser](./oop/StringReverser/README.md)
+2. [area of a circle](./oop/CircleArea/README.md)
+3. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
+4. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
+5. [blacklist](./collections/Blaclist/README.md)
 
 ## Knowledge Map
 - basics
@@ -173,6 +173,7 @@ topic|descriptions|num
 [movie](./oop/Movie/README.md)|multiple constructors|116
 [capture variables](./oop/CaptureVariables/README.md)|nested classes, anonymous classes|131
 [managing a process](./oop/ManagingProcess/README.md)|nested classes, anonymous classes|35
+[string reverser](./oop/StringReverser/README.md)|nested classes, anonymous classes|263
 [pumpkin and canlde](./oop/PumpkinAndCandle/README.md)|nested classes, inner classes|148
 [days of week](./oop/DaysOfWeek/README.md)|other concepts, enumerations|132
 [balance management](./oop/BalanceManagement/README.md)|other concepts, fields and methods in enum|182
