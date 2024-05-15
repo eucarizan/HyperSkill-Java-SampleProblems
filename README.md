@@ -1,12 +1,12 @@
 # Sample Problems
-- count (261)
+- count (262)
 
 ## Previously Solved (latest first)
-1. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
-2. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
-3. [blacklist](./collections/Blaclist/README.md)
-4. [squaring numbers](./collections/SquaringNumbers/README.md)
-5. [count and display element frequencies](./collections/CountFrequencies/README.md)
+1. [area of a circle](./oop/CircleArea/README.md)
+2. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
+3. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
+4. [blacklist](./collections/Blaclist/README.md)
+5. [squaring numbers](./collections/SquaringNumbers/README.md)
 
 ## Knowledge Map
 - basics
@@ -163,6 +163,7 @@ topic|descriptions|num
 :-:|:-:|:-:
 [managing speed in a car class](./oop/ManageCarSpeed/README.md)|classes and objects, access control, access modifiers|251
 [student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
+[area of a circle](./oop/CircleArea/README.md)|declaring functionalities with interfaces|262
 [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)|declaring functionalities with interfaces|261
 [binary search](./oop/BinarySearch/README.md)|grouping classes with packages, classes and members, classes and objects|255
 [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)|grouping classes with packages, classes and members, classes and objects|254
