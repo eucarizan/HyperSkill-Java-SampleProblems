@@ -1,12 +1,12 @@
 # Sample Problems
-- count (265)
+- count (266)
 
 ## Previously Solved (latest first)
-1. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
-2. [implementing a greeting interface](./oop/GreetingInterface/README.md)
-3. [string reverser](./oop/StringReverser/README.md)
-4. [area of a circle](./oop/CircleArea/README.md)
-5. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
+1. [add new default method](./oop/FlyingInterface/README.md)
+2. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
+3. [implementing a greeting interface](./oop/GreetingInterface/README.md)
+4. [string reverser](./oop/StringReverser/README.md)
+5. [area of a circle](./oop/CircleArea/README.md)
 
 ## Knowledge Map
 - basics
@@ -165,6 +165,7 @@ topic|descriptions|num
 [student class with getters and constructor](./oop/StudentInfo/README.md)|classes and objects, access control, access modifiers|250
 [area of a circle](./oop/CircleArea/README.md)|declaring functionalities with interfaces|262
 [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)|declaring functionalities with interfaces|261
+[add new default method](./oop/FlyingInterface/README.md)|default methods, interfaces and abstract classes, class hierarchies|266
 [implementing a greeting interface](./oop/GreetingInterface/README.md)|default methods, interfaces and abstract classes, class hierarchies|264
 [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)|default methods, interfaces and abstract classes, class hierarchies|265
 [binary search](./oop/BinarySearch/README.md)|grouping classes with packages, classes and members, classes and objects|255
