@@ -1,12 +1,12 @@
 # Sample Problems
-- count (264)
+- count (265)
 
 ## Previously Solved (latest first)
-1. [implementing a greeting interface](./oop/GreetingInterface/README.md)
-2. [string reverser](./oop/StringReverser/README.md)
-3. [area of a circle](./oop/CircleArea/README.md)
-4. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
-5. [determining the taste of fruits using method overriding](./oop/TasteOfFruits/README.md)
+1. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
+2. [implementing a greeting interface](./oop/GreetingInterface/README.md)
+3. [string reverser](./oop/StringReverser/README.md)
+4. [area of a circle](./oop/CircleArea/README.md)
+5. [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)
 
 ## Knowledge Map
 - basics
@@ -166,6 +166,7 @@ topic|descriptions|num
 [area of a circle](./oop/CircleArea/README.md)|declaring functionalities with interfaces|262
 [polymorphic area calculator for shapes](./oop/PolymorphicArea/README.md)|declaring functionalities with interfaces|261
 [implementing a greeting interface](./oop/GreetingInterface/README.md)|default methods, interfaces and abstract classes, class hierarchies|264
+[implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)|default methods, interfaces and abstract classes, class hierarchies|265
 [binary search](./oop/BinarySearch/README.md)|grouping classes with packages, classes and members, classes and objects|255
 [calculating package shipping cost by weight](./oop/ShippngCostByWeight/README.md)|grouping classes with packages, classes and members, classes and objects|254
 [creating instances](./oop/BigIntegerConverter/README.md)|grouping classes with packages, classes and members, classes and objects|253
