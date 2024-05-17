@@ -1,12 +1,12 @@
 # Sample Problems
-- count (266)
+- count (267)
 
 ## Previously Solved (latest first)
-1. [add new default method](./oop/FlyingInterface/README.md)
-2. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
-3. [implementing a greeting interface](./oop/GreetingInterface/README.md)
-4. [string reverser](./oop/StringReverser/README.md)
-5. [area of a circle](./oop/CircleArea/README.md)
+1. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
+2. [add new default method](./oop/FlyingInterface/README.md)
+3. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
+4. [implementing a greeting interface](./oop/GreetingInterface/README.md)
+5. [string reverser](./oop/StringReverser/README.md)
 
 ## Knowledge Map
 - basics
@@ -408,6 +408,7 @@ topic|descriptions|num
 [same time](./date_and_time/SameTime/README.md)|localtime|13
 [merge datetime](./date_and_time/MergeDateTime/README.md)|localdatetime|138
 [subtracting hours adding minutes](./date_and_time/SubtractingHours/README.md)|localdatetime|128
+[the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)|period and duration classes|267
 [the difference between period units](./date_and_time/PeriodUnitDifference/README.md)|period and duration classes|246
 <hr>
 <!--
