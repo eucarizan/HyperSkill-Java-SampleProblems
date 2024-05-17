@@ -1,12 +1,12 @@
 # Sample Problems
-- count (267)
+- count (268)
 
 ## Previously Solved (latest first)
-1. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
-2. [add new default method](./oop/FlyingInterface/README.md)
-3. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
-4. [implementing a greeting interface](./oop/GreetingInterface/README.md)
-5. [string reverser](./oop/StringReverser/README.md)
+1. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
+2. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
+3. [add new default method](./oop/FlyingInterface/README.md)
+4. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
+5. [implementing a greeting interface](./oop/GreetingInterface/README.md)
 
 ## Knowledge Map
 - basics
@@ -348,6 +348,7 @@ topic|descriptions|num
 [sort users](./collections/SortUsers/README.md)|comparator|68
 [backward indexes](./collections/BackwardIndexes/README.md)|list|29
 [count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
+[find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
 [counting words](./collections/CountingWords/README.md)|the map interface|60
 [creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
 [diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
