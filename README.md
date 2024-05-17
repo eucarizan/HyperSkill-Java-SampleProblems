@@ -1,12 +1,12 @@
 # Sample Problems
-- count (269)
+- count (270)
 
 ## Previously Solved (latest first)
-1. [greek letters](./collections/ListGreekLetters/README.md)
-2. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
-3. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
-4. [add new default method](./oop/FlyingInterface/README.md)
-5. [implementing and extending color and shape interface](./oop/ColorShapeInterfaces/README.md)
+1. [filtering the list](./collections/ListEvenFilter/README.md)
+2. [greek letters](./collections/ListGreekLetters/README.md)
+3. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
+4. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
+5. [add new default method](./oop/FlyingInterface/README.md)
 
 ## Knowledge Map
 - basics
@@ -348,6 +348,7 @@ topic|descriptions|num
 [sort users](./collections/SortUsers/README.md)|comparator|68
 [backward indexes](./collections/BackwardIndexes/README.md)|list|29
 [count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
+[filtering the list](./collections/ListEvenFilter/README.md)|list|270
 [find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
 [greek letters](./collections/ListGreekLetters/README.md)|list|269
 [counting words](./collections/CountingWords/README.md)|the map interface|60
