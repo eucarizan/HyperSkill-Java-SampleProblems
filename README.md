@@ -1,12 +1,12 @@
 # Sample Problems
-- count (272)
+- count (273)
 
 ## Previously Solved (latest first)
-1. [Companies](./collections/ListCompanies/README.md)
-2. [the longest string in the list](./collections/ListLongestString/README.md)
-3. [filtering the list](./collections/ListEvenFilter/README.md)
-4. [greek letters](./collections/ListGreekLetters/README.md)
-5. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
+1. [split a list into a sublists](./collections/ListSplitSublist/README.md)
+2. [Companies](./collections/ListCompanies/README.md)
+3. [the longest string in the list](./collections/ListLongestString/README.md)
+4. [filtering the list](./collections/ListEvenFilter/README.md)
+5. [greek letters](./collections/ListGreekLetters/README.md)
 
 ## Knowledge Map
 - basics
@@ -352,6 +352,7 @@ topic|descriptions|num
 [filtering the list](./collections/ListEvenFilter/README.md)|list|270
 [find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
 [greek letters](./collections/ListGreekLetters/README.md)|list|269
+[split a list into a sublists](./collections/ListSplitSublist/README.md)|list|273
 [the longest string in the list](./collections/ListLongestString/README.md)|list|271
 [counting words](./collections/CountingWords/README.md)|the map interface|60
 [creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
