@@ -1,12 +1,12 @@
 # Sample Problems
-- count (271)
+- count (272)
 
 ## Previously Solved (latest first)
-1. [the longest string in the list](./collections/ListLongestString/README.md)
-2. [filtering the list](./collections/ListEvenFilter/README.md)
-3. [greek letters](./collections/ListGreekLetters/README.md)
-4. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
-5. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
+1. [Companies](./collections/ListCompanies/README.md)
+2. [the longest string in the list](./collections/ListLongestString/README.md)
+3. [filtering the list](./collections/ListEvenFilter/README.md)
+4. [greek letters](./collections/ListGreekLetters/README.md)
+5. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
 
 ## Knowledge Map
 - basics
@@ -347,6 +347,7 @@ topic|descriptions|num
 [reverse sorting](./collections/ReverseSorting/README.md)|comparator|71
 [sort users](./collections/SortUsers/README.md)|comparator|68
 [backward indexes](./collections/BackwardIndexes/README.md)|list|29
+[Companies](./collections/ListCompanies/README.md)|list|272
 [count value occurrences](./collections/ListCountOccurrences/README.md)|list|32
 [filtering the list](./collections/ListEvenFilter/README.md)|list|270
 [find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
