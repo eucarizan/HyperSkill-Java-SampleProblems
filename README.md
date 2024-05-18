@@ -347,7 +347,7 @@ topic|descriptions|num
 [reverse sorting](./collections/ReverseSorting/README.md)|comparator|71
 [sort users](./collections/SortUsers/README.md)|comparator|68
 [backward indexes](./collections/BackwardIndexes/README.md)|list|29
-[count value occurrences](./collections/CountValueOccurrences/README.md)|list|32
+[count value occurrences](./collections/ListCountOccurrences/README.md)|list|32
 [filtering the list](./collections/ListEvenFilter/README.md)|list|270
 [find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
 [greek letters](./collections/ListGreekLetters/README.md)|list|269
