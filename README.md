@@ -1,12 +1,12 @@
 # Sample Problems
-- count (270)
+- count (271)
 
 ## Previously Solved (latest first)
-1. [filtering the list](./collections/ListEvenFilter/README.md)
-2. [greek letters](./collections/ListGreekLetters/README.md)
-3. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
-4. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
-5. [add new default method](./oop/FlyingInterface/README.md)
+1. [the longest string in the list](./collections/ListLongestString/README.md)
+2. [filtering the list](./collections/ListEvenFilter/README.md)
+3. [greek letters](./collections/ListGreekLetters/README.md)
+4. [find the middle element in a sequence](./collections/ListMiddleElement/README.md)
+5. [the difference between duration units](./date_and_time/DurationMaxMinusAvg/README.md)
 
 ## Knowledge Map
 - basics
@@ -351,6 +351,7 @@ topic|descriptions|num
 [filtering the list](./collections/ListEvenFilter/README.md)|list|270
 [find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
 [greek letters](./collections/ListGreekLetters/README.md)|list|269
+[the longest string in the list](./collections/ListLongestString/README.md)|list|271
 [counting words](./collections/CountingWords/README.md)|the map interface|60
 [creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
 [diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
