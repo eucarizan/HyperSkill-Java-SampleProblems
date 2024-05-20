@@ -1,12 +1,12 @@
 # Sample Problems
-- count (274)
+- count (275)
 
 ## Previously Solved (latest first)
-1. [strict superset](./collections/SetStrict/README.md)
-2. [split a list into a sublists](./collections/ListSplitSublist/README.md)
-3. [Companies](./collections/ListCompanies/README.md)
-4. [the longest string in the list](./collections/ListLongestString/README.md)
-5. [filtering the list](./collections/ListEvenFilter/README.md)
+1. [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)
+2. [strict superset](./collections/SetStrict/README.md)
+3. [split a list into a sublists](./collections/ListSplitSublist/README.md)
+4. [Companies](./collections/ListCompanies/README.md)
+5. [the longest string in the list](./collections/ListLongestString/README.md)
 
 ## Knowledge Map
 - basics
@@ -364,6 +364,7 @@ topic|descriptions|num
 [sum of values](./collections/SumOfValues/README.md)|map interface|187
 [tricky submaps](./collections/TrickySubMaps/README.md)|map interface|113
 [value or min](./collections/ValueOrMin/README.md)|map interface|188
+[removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)|set interface|275
 [strict superset](./collections/SetStrict/README.md)|set interface|274
 <hr>
 <!--
