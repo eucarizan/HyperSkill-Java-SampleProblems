@@ -1,12 +1,12 @@
 # Sample Problems
-- count (273)
+- count (274)
 
 ## Previously Solved (latest first)
-1. [split a list into a sublists](./collections/ListSplitSublist/README.md)
-2. [Companies](./collections/ListCompanies/README.md)
-3. [the longest string in the list](./collections/ListLongestString/README.md)
-4. [filtering the list](./collections/ListEvenFilter/README.md)
-5. [greek letters](./collections/ListGreekLetters/README.md)
+1. [strict superset](./collections/SetStrict/README.md)
+2. [split a list into a sublists](./collections/ListSplitSublist/README.md)
+3. [Companies](./collections/ListCompanies/README.md)
+4. [the longest string in the list](./collections/ListLongestString/README.md)
+5. [filtering the list](./collections/ListEvenFilter/README.md)
 
 ## Knowledge Map
 - basics
@@ -346,24 +346,25 @@ topic|descriptions|num
 [odd and even](./collections/OddAndEven/README.md)|comparator|70
 [reverse sorting](./collections/ReverseSorting/README.md)|comparator|71
 [sort users](./collections/SortUsers/README.md)|comparator|68
-[backward indexes](./collections/BackwardIndexes/README.md)|list|29
-[Companies](./collections/ListCompanies/README.md)|list|272
-[count value occurrences](./collections/ListCountOccurrences/README.md)|list|32
-[filtering the list](./collections/ListEvenFilter/README.md)|list|270
-[find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list|268
-[greek letters](./collections/ListGreekLetters/README.md)|list|269
-[split a list into a sublists](./collections/ListSplitSublist/README.md)|list|273
-[the longest string in the list](./collections/ListLongestString/README.md)|list|271
-[counting words](./collections/CountingWords/README.md)|the map interface|60
-[creating a tree map](./collections/CreatingATreeMap/README.md)|the map interface|57
-[diplaying pairs](./collections/DisplayingPairs/README.md)|the map interface|59
-[getting submaps](./collections/GettingSubmaps/README.md)|the map interface|185
-[kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)|the map interface|186
-[modifying a map](./collections/ModifyingAMap/README.md)|the map interface|173
-[sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|the map interface|58
-[sum of values](./collections/SumOfValues/README.md)|the map interface|187
-[tricky submaps](./collections/TrickySubMaps/README.md)|the map interface|113
-[value or min](./collections/ValueOrMin/README.md)|the map interface|188
+[backward indexes](./collections/BackwardIndexes/README.md)|list interface|29
+[companies](./collections/ListCompanies/README.md)|list interface|272
+[count value occurrences](./collections/ListCountOccurrences/README.md)|list interface|32
+[filtering the list](./collections/ListEvenFilter/README.md)|list interface|270
+[find the middle element in a sequence](./collections/ListMiddleElement/README.md)|list interface|268
+[greek letters](./collections/ListGreekLetters/README.md)|list interface|269
+[split a list into a sublists](./collections/ListSplitSublist/README.md)|list interface|273
+[the longest string in the list](./collections/ListLongestString/README.md)|list interface|271
+[counting words](./collections/CountingWords/README.md)|map interface|60
+[creating a tree map](./collections/CreatingATreeMap/README.md)|map interface|57
+[diplaying pairs](./collections/DisplayingPairs/README.md)|map interface|59
+[getting submaps](./collections/GettingSubmaps/README.md)|map interface|185
+[kidnapper of ice cream](./collections/KidnapperOfIceCream/README.md)|map interface|186
+[modifying a map](./collections/ModifyingAMap/README.md)|map interface|173
+[sherlock homes and the mystery of anagrams](./collections/SherlockHolmesAnagrams/README.md)|map interface|58
+[sum of values](./collections/SumOfValues/README.md)|map interface|187
+[tricky submaps](./collections/TrickySubMaps/README.md)|map interface|113
+[value or min](./collections/ValueOrMin/README.md)|map interface|188
+[strict superset](./collections/SetStrict/README.md)|set interface|274
 <hr>
 <!--
 [](./collections//README.md)||
