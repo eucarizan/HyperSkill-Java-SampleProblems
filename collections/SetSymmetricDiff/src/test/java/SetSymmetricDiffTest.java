@@ -25,4 +25,18 @@ public class SetSymmetricDiffTest {
 
         assertEquals(expected, result);
     }
+
+    @ParameterizedTest(name = "{0} -- symmetricDiffStream([{1}], [{2}]) == {3}")
+    @DisplayName("symmetricDiffStream test")
+    @CsvSource(value = {
+            "test1 : 1, 2, 3 : 0, 1, 2 : 0 3",
+    }, delimiter = ':')
+    public void test2(String name, String input1, String input2, String expected) {
+        Set<String> param1 = Arrays.stream(input1.split(", ")).collect(Collectors.toSet());
+        Set<String> param2 = Arrays.stream(input2.split(", ")).collect(Collectors.toSet());
+
+        var result = SetSymmetricDiff.symmetricDiffStream(param1, param2);
+
+        assertEquals(expected, result);
+    }
 }

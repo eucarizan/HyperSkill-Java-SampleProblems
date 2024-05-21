@@ -22,4 +22,11 @@ public class SetSymmetricDiff {
         });
         return String.join(" ", resultSet);
     }
+
+    public static String symmetricDiffStream(Set<String> set1, Set<String> set2) {
+        return String.join(" ", Stream.of(set1, set2).flatMap(Collection::stream)
+                .filter(Predicate.not(it -> set1.contains(it) && set2.contains(it)))
+                // .filter(it -> set1.contains(it) ^ set2.contains(it))
+                .collect(Collectors.toSet()));
+    }
 }
