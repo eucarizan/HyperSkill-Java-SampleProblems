@@ -1,12 +1,12 @@
 # Sample Problems
-- count (275)
+- count (276)
 
 ## Previously Solved (latest first)
-1. [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)
-2. [strict superset](./collections/SetStrict/README.md)
-3. [split a list into a sublists](./collections/ListSplitSublist/README.md)
-4. [Companies](./collections/ListCompanies/README.md)
-5. [the longest string in the list](./collections/ListLongestString/README.md)
+1. [symmetric difference](./collections/SetSymmetricDiff/README.md)
+2. [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)
+3. [strict superset](./collections/SetStrict/README.md)
+4. [split a list into a sublists](./collections/ListSplitSublist/README.md)
+5. [Companies](./collections/ListCompanies/README.md)
 
 ## Knowledge Map
 - basics
@@ -366,6 +366,7 @@ topic|descriptions|num
 [value or min](./collections/ValueOrMin/README.md)|map interface|188
 [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)|set interface|275
 [strict superset](./collections/SetStrict/README.md)|set interface|274
+[symmetric difference](./collections/SetSymmetricDiff/README.md)|set interface|276
 <hr>
 <!--
 [](./collections//README.md)||
