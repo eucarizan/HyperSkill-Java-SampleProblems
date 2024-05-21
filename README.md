@@ -1,12 +1,12 @@
 # Sample Problems
-- count (276)
+- count (277)
 
 ## Previously Solved (latest first)
-1. [symmetric difference](./collections/SetSymmetricDiff/README.md)
-2. [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)
-3. [strict superset](./collections/SetStrict/README.md)
-4. [split a list into a sublists](./collections/ListSplitSublist/README.md)
-5. [Companies](./collections/ListCompanies/README.md)
+1. [removing elements](./collections/SetRemove/README.md)
+2. [symmetric difference](./collections/SetSymmetricDiff/README.md)
+3. [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)
+4. [strict superset](./collections/SetStrict/README.md)
+5. [split a list into a sublists](./collections/ListSplitSublist/README.md)
 
 ## Knowledge Map
 - basics
@@ -365,6 +365,7 @@ topic|descriptions|num
 [tricky submaps](./collections/TrickySubMaps/README.md)|map interface|113
 [value or min](./collections/ValueOrMin/README.md)|map interface|188
 [removing duplicate names from a comma-separated list](./collections/SetNameList/README.md)|set interface|275
+[removing elements](./collections/SetRemove/README.md)|set interface|277
 [strict superset](./collections/SetStrict/README.md)|set interface|274
 [symmetric difference](./collections/SetSymmetricDiff/README.md)|set interface|276
 <hr>
