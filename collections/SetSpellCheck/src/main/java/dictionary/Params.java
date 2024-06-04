@@ -1,0 +1,45 @@
+package dictionary;
+
+public class Params {
+    public static final String[] DICT = {
+            "[a, bb, cCc]",
+            "[da, dYqu, YP, cdar, cbdY, qdsucru, usZcrus, PaudurbusY, sYsausqsZ, cPqccc, XqZr, sP, Ydccb, Xd, qZXdduPX, rbu, sdYdYrPZ, qqZbruZ, bXbuqusc, crcrPPsb, q, XauaYXPd, YucuP, rZXYabucq, X, rbsXYXsq, rXYPuXqYsd, PsPsaZc, b, Y, sZXsaqbYcY, qqrqPcY, aYqdrbbcP, PXPrY, qb, sPuu, XYPYqabsur, ZXuqb, aY, curqub, a, ssYc, YYYd]",
+            "[ZY, csudqqscdb, YucbZXZraX, udZYqrbb, aZ, sZbPaYP, X, bdsXXYdX, XurucsuZr, bYYbdcuss, sYbYqYuda, Pruduq, sqXZcPrq, bYba, XucrXYruP, ud, Pr, sbYs, YPdqccscra, sXP, bdcarZZqu, PZaYusa, aduPaqYb, dus, ausbX, Ydadu, uqcPb, Xc, PY, Pc, YaaP, ubuaPcadsu]",
+            "[u, br, YXcsb, rabqZ, srdsubbXs, cZcdc, qcbsccX, uXZcbYduc, bccbdXr, rrqbcaqPdP, ZZaYabsucc, bYuZrsZqZq, bararYs, sXu, qq, rardZbcr, cZdaYY, dab, rZuZbZuaqX, rPs, YP, c, YcqXbc, rcP, usYrsaZPq, cuccXrZ, u, aZPYqr, qPuaPY, PrbdYu, adqdYPP, PZZac, ZdXXubbcus, uqXbb, cbbZqXdXu, uqZ, ccP, suqrsr, uduZqYY, ZqduYYPs, qqdqbsccra, rbda, YdYubbqraY, rXP, r, YaadrqbYX, dds]",
+            "[ucZuPuYrX, bPaXdcbXr, auXPY, cs, bYdPaP, bbrPc, bb, ca, bbrbacZXrs, uqbaZdccY, sYua, ua, rbZrsXX, caucPZq, YYcuZr, PuZrru, YquXqas, aYaqXXaZda, badrd, ZqrqcYu, rPX, cccYZ, uacrduZrq, Zsua, ursPYd, uqbXPYXPr, bP, PsPsPru, cXacbdZaX, qPYXabsX, rYaXXb, asb, X, s, PcrYcsqdu, ParaZqXsc, brdb, qYrudXPd, adrrrrZa, q, ZZrqbaPZX, qsrZdsYd, dcXdq, qdccbbd, sdYZ]",
+            "[PrdP, sruXqaYYXZ, srs, uYYPb, rsPqPabX, ccbZY, aYZ, ZdZ, XaruPssX, YuP, PuXrYudusP, urcXZ, ZusqbPras, XbZ]",
+            "[qa, sqrYbd, bqXadZYYqd, ubuPrab, Xbs, ccauqcuuZY, bYbaYdsa, YqZPaqsZuZ, dZbX, ZYs, rqsZsPs, qrdba, cXPqsZZq, uPPPZZuP, qZ, PascbsXdcq, csdabYds, qZaX, Pcu, qYZZau, rqr, uYurXas, qPrq, cZP, bduuZaXZY, ZssPaYrq, rb, Prc, YcrZabPqrc, scXd]",
+            "[YuuXZdqq, quqqu, srPcu, uZrPrYYZub, PPrar, udZP, Xq, aXuasZ, PsYZuZus, XdX, XcacqYcc, cPraad, uZqXsc, cac, qr, rYqZsXrX, ZXXqqZqa, s, rXXrdbb, audXPucq, dZXrrXabY, dbZqcY, cc]",
+            "[ucXXYrYYdc, Z, X, PPPZr, ubYsu, XYsudc, PZrd, aaZsY, srda, PrrbYd, YP, bsPac, YZPbPda, saYaY, cdddruadrY, aqacXbs, a, us, cXsqqbrcP, crYYrsr, cXr, YdXaPYu, udrY, cqYqqqP, sb, ausrZYa, urZaPaP, rrZ, uqsauYsqad, ZquaY, Yuubc, ZZccbau, aacPZXXd, aqcc, qXYdd, sdZdZr, XYdr, rPqYPq, dssXZus, P]",
+            "[qPXu, qZdrudq, YqX, bcc, dqZZqr, caPX, rZss, ZZYrPYd, Yaqacq, qYXb, bu]",
+            "[rsuc, PPcqqPZYZ, XdPrrdbPs, adaqZcqYX, bZs, bbubPYXXX, dXsrsad, X, P, cPcscubcsX, sYaXbPsda, XYdYcas, scr, PPbbYXba, Z, dbr, aqZabrXc, uYuXPbcP, dqscYqu, XbYqaac, YdaaZ, abaabaPr, qYdusZPq, ZZYccus, PqaubdYa, csbPP, r, ZZq, q, dZPPc, Yudqdur, asdP, cdb, ZuqddaY, c, PsXPParY, XsdXPsYdXc, YudZq, rqsr, XqsPruY, rc]"
+    };
+
+    public static final String[] WORD = {
+            "[a, bb, aab, aba, ccc, c, aaa]",
+            "[urrsuaq, da, ssYc, rbsXYXsq, bXbuqusc, uPqrurZP, rZXYabucq, rXYPuXqYsd, scZXZscd, ZZaaXZ, ZZdYq, PaudurbusY, X, usZcrus, dYqu, sZXsaqbYcY, XauaYXPd, Y, aYqdrbbcP, crcrPPsb, aY, qqrqPcY, a]",
+            "[sXaXurP, dcas, ZY, csudqqscdb, sYbYqYuda, rPqbquq, PY, bdsXXYdX, bqcbaP, drPbasXX, dus, ud, PZaYusa, qrqZXYu, sZbPaYP, aduPaqYb, ubuaPcadsu, XubuqZu, X, Pr, Ycuc, srZ, dqXacPq, auXZYYusc, aqXarYYZ, uqcPb, Pc, aZ, uYa, sbYs, Xc, urYPdabqZb, XucrXYruP, sdauc, c, XurucsuZr, bdcarZZqu, udZYqrbb, YaaP, suPbb, YucbZXZraX, dPXqsruPcP, XPXsqaXarP, ZP, cuYP, Ydadu, sqXZcPrq, squbauasr, cqd, bYba, YruqXs, qPs, Zuc, YPdqccscra, baPbduZ, aqPYXruaYd, ausbX, Y, u, sdrXuXsqr, sXP, Z, scZasPcP, Zbuq, rY, dPaXcsXqcZ, XcPubXZcu, PZc, sqPabrX, q, auPu, Pruduq, sarPsusqas, PuPXXZbrP, dPaYZrubcY, YZZuZq]",
+            "[cZdaYY, ZP, rsP, d, Zrs, dPZsb, PrbdYu, aYYrb, ZqduYYPs, XYcrcXcr, budZXqqrcP, c, dds, ZdXXubbcus, YP, PY, br, qqdqbsccra, uduZqYY, uPsZabaXP, YXb, YdYubbqraY, Z, u, rrqbcaqPdP, qdd, a, Psbqrcrqbu, qPuaPY, rbda, sXu, YaadrqbYX, bbb, PYYuXddYY, YXcsb, ac, cuccXrZ, uruPdcZsZ, bararYs, XYdPs, srdsubbXs, uXZcbYduc, sPPYqbr, rcP, r, YqcXd, aZPYqr, daYYdr, cbbZqXdXu, suqrsr, sXsds, uZsPXXscs, dPsq, rPs, drqXbXbXdu, csPq, rZ, Yd, qcbsccX, rZuZbZuaqX, bYuZrsZqZq, ra, rabqZ, PYacY, Ys, bcd, YXbqcbZP, scPaZuPsZZ, bccbdXr, usYrsaZPq, adqdYPP, qq, qXZcadurs, uqXbb, uYaYccPb]",
+            "[ParaZqXsc, dZaXZYb, sdYZ, budqrudPb, dPaYu, bP, ucZuPuYrX, PuZrru, ua, qaarYaqXY, q, ca, c]",
+            "[ZXsXPuYsPY, PuXrYudusP, srs, ccbZY, PrdP, ddqc, Y, ZXPq, ZusqbPras, XaruPssX, crqbsZsbq, aYZ, urcXZ, qrddPuZ, sXquqds, ruZ]",
+            "[uYurXas, Prc, rbX, rqsZsPs, qPrq, uYasZusd, qrdba, qYZZau, sqrYbd, uPPPZZuP, aruYuaZs, PascbsXdcq, bdaZYaXbu, Xbs, rZsbbZZbY, bYbaYdsa, PPZYbr, abPsurrYYY, bduuZaXZY, ubuPrab, ZdccXZ, ssasYucur, YqZPaqsZuZ, bqY, rrc, caY, cZP, cqrYa, ZYs, YuPPZscbZd, XaaPYaXu, rqr, rsrcubs, Pcu, YcdcX, scXd, qZaX, ZssPaYrq, bqXadZYYqd, dZbX, rb, raruuPbs, quaZ, qa, bXudXPub, YPXcscYsdX, qYusZYXPZ, YuXdXXXZY, uZqcbdad, u, YcrZabPqrc, cqP, ZZr, qZ, XPdcqPXqs, cXPqsZZq, aXZuZPsb, qZqXYZuZrs, PsPaqaqXsa, sY, ZbYbYsP, rq, ss, a, XZZdPrZZZ, YZc, qccadYars, qccYd, qd, Xqb, bd]",
+            "[ZXXqqZqa, cPraad, acdZZXXu, srPcu, uZqXsc, PYb, ucrs, adccrZ, raqcr, adYbPXcPcc, uZrPrYYZub, rXXrdbb, q, XdX, qPbbZrsY, s, PsYZuZus, audXPucq, aXuasZ, sr, ZXrd, ccaaqcXXZ, XcacqYcc, quqqu, dZXrrXabY, YuuXZdqq, dbZqcY, cac, Xq, ddPPXdsruX, YYbPPb, cc, bcYXP, rYqZsXrX, dcs, qZXXPrZd, XubaYbd, YuZacPrq, qr, sYus, Pac, dqc, bYPZXbZraa, Xsrq, XZZuudX, ccPXq, u]",
+            "[dcsbsPZ, cXsqqbrcP, udrY, ubYsu, Yuubc, aaZsY, sb, rrZ, sdZdZr, crYYrsr, XYdr, ucXXYrYYdc, aqacXbs, P, quuXPZXb, PZrd, us, cqYqqqP, cdddruadrY, bYubZ, X, dqcs, ZadbdqruZ, Z, ZZccbau, ausrZYa, ddd, a, aYYYYdasX, r, qasXddaPsc, caYuPbua, aacPZXXd, qXYdd, YsYZssdss, uYbrXdqP, bsPac, saYaY, PrrbYd, cZaaP, dssXZus, YqP, srqsbY, ucYurqP, XYsudc, PsbaYs, cXr, as, Y, PPPZr, XPcPZbuY, urquYdaP, urZaPaP, YdXaPYu, saYYZPrPbX, cYZXsXXudq, dcqbsYYu, rPqYPq, rqrqYd, bZsrYsPsbs, dsPuYbua, aXauca, qaucu, srcYa, YZPbPda, XdcZrdb, ccZcda, q, cu, Zquau, ub, ZquaY, arPXY, ddXPrPY, YP]",
+            "[bu, cPcc, bcc, rZss, d, caPX, r, a, Yaqacq, dqZZqr, qZP, qPXu, ZZYrPYd, cuaXsdP, rYdr, qYXb, Zqr, Pda, q, rdqda, qZdrudq, caq, dbbX, YqbP, cudbYPq, dYaarc, YqX, brqqu, qaXa, rPsrccrY, cqrbqYrqa, cYPYracYbu, Z, dsqr, uucbPcdr, X, qrdZqq, qPYsqPsa, qZr, ac, ZdPZ]",
+            "[P, r, X, qbdbuqcdbZ, ZYqda, c, rc, dZPPc, qXbPXq, rsuc, srXcdsb, bbcPbaudX, uY, XbYqaac, XYdYcas, bbubPYXXX, Zq, qqPsbcqsa, ZbPa, PPbbYXba, Yudqdur, bdqZYs, dbr, qYdusZPq, aqZabrXc, bZs, d, Xcuc, sYaXbPsda, cYar, ZuqddaY, aXu, Xsb, scr, Z, usaX, rcZuYYadP, PqrbPPa, auusqqaX, YudZq, bXZbs, rXrc, PsXPParY, sYXdsqudba, q, ccaXdZ, cPcscubcsX, dqscYqu, PYXYcbrcYP, ruqZXZ, YaYcauc, XdPrrdbPs, ccPbudZ, XqsPruY, scuXs, Zara, qXua, ZP, ZXcXba, YccrPYc, YqYXb, asdP]"
+    };
+
+    public static final String[] OUTP = {
+            "aab, aba, c, aaa",
+            "urrsuaq, uPqrurZP, scZXZscd, ZZaaXZ, ZZdYq",
+            "sXaXurP, dcas, rPqbquq, bqcbaP, drPbasXX, qrqZXYu, XubuqZu, Ycuc, srZ, dqXacPq, auXZYYusc, aqXarYYZ, uYa, urYPdabqZb, sdauc, c, suPbb, dPXqsruPcP, XPXsqaXarP, ZP, cuYP, squbauasr, cqd, YruqXs, qPs, Zuc, baPbduZ, aqPYXruaYd, Y, u, sdrXuXsqr, Z, scZasPcP, Zbuq, rY, dPaXcsXqcZ, XcPubXZcu, PZc, sqPabrX, q, auPu, sarPsusqas, PuPXXZbrP, dPaYZrubcY, YZZuZq",
+            "ZP, rsP, d, Zrs, dPZsb, aYYrb, XYcrcXcr, budZXqqrcP, PY, uPsZabaXP, YXb, Z, qdd, a, Psbqrcrqbu, bbb, PYYuXddYY, ac, uruPdcZsZ, XYdPs, sPPYqbr, YqcXd, daYYdr, sXsds, uZsPXXscs, dPsq, drqXbXbXdu, csPq, rZ, Yd, ra, PYacY, Ys, bcd, YXbqcbZP, scPaZuPsZZ, qXZcadurs, uYaYccPb",
+            "dZaXZYb, budqrudPb, dPaYu, qaarYaqXY, c",
+            "ZXsXPuYsPY, ddqc, Y, ZXPq, crqbsZsbq, qrddPuZ, sXquqds, ruZ",
+            "rbX, uYasZusd, aruYuaZs, bdaZYaXbu, rZsbbZZbY, PPZYbr, abPsurrYYY, ZdccXZ, ssasYucur, bqY, rrc, caY, cqrYa, YuPPZscbZd, XaaPYaXu, rsrcubs, YcdcX, raruuPbs, quaZ, bXudXPub, YPXcscYsdX, qYusZYXPZ, YuXdXXXZY, uZqcbdad, u, cqP, ZZr, XPdcqPXqs, aXZuZPsb, qZqXYZuZrs, PsPaqaqXsa, sY, ZbYbYsP, rq, ss, a, XZZdPrZZZ, YZc, qccadYars, qccYd, qd, Xqb, bd",
+            "acdZZXXu, PYb, ucrs, adccrZ, raqcr, adYbPXcPcc, q, qPbbZrsY, sr, ZXrd, ccaaqcXXZ, ddPPXdsruX, YYbPPb, bcYXP, dcs, qZXXPrZd, XubaYbd, YuZacPrq, sYus, Pac, dqc, bYPZXbZraa, Xsrq, XZZuudX, ccPXq, u",
+            "dcsbsPZ, quuXPZXb, bYubZ, dqcs, ZadbdqruZ, ddd, aYYYYdasX, r, qasXddaPsc, caYuPbua, YsYZssdss, uYbrXdqP, cZaaP, YqP, srqsbY, ucYurqP, PsbaYs, as, Y, XPcPZbuY, urquYdaP, saYYZPrPbX, cYZXsXXudq, dcqbsYYu, rqrqYd, bZsrYsPsbs, dsPuYbua, aXauca, qaucu, srcYa, XdcZrdb, ccZcda, q, cu, Zquau, ub, arPXY, ddXPrPY",
+            "cPcc, d, r, a, qZP, cuaXsdP, rYdr, Zqr, Pda, q, rdqda, caq, dbbX, YqbP, cudbYPq, dYaarc, brqqu, qaXa, rPsrccrY, cqrbqYrqa, cYPYracYbu, Z, dsqr, uucbPcdr, X, qrdZqq, qPYsqPsa, qZr, ac, ZdPZ",
+            "qbdbuqcdbZ, ZYqda, qXbPXq, srXcdsb, bbcPbaudX, uY, Zq, qqPsbcqsa, ZbPa, bdqZYs, d, Xcuc, cYar, aXu, Xsb, usaX, rcZuYYadP, PqrbPPa, auusqqaX, bXZbs, rXrc, sYXdsqudba, ccaXdZ, PYXYcbrcYP, ruqZXZ, YaYcauc, ccPbudZ, scuXs, Zara, qXua, ZP, ZXcXba, YccrPYc, YqYXb"
+    };
+}
